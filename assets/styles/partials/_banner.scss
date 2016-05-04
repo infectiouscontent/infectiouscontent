@@ -74,11 +74,14 @@
                 color: $color-orange;
 
 	}
-        .slide-what-down {
+        .slide {
                 position: absolute;
-                top: 25%;
-                left: 25%;
                 z-index: 5;
-                @include animation(what-down ease-out 9s infinite backwards);
+        }
+        .what-up {
+                @include animation(what-up ease-out 9s infinite forwards);
+        }
+        .what-down {
+                @include animation(what-down ease-out 9s infinite forwards);
         }
 }

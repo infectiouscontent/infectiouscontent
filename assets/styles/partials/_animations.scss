@@ -18,12 +18,22 @@
 }
 
 /*----------------------------------------------   
+--What Up (for Banner)
+-----------------------------------------------  */
+@include keyframes(what-up) {
+  0%{ opacity: 0; bottom: -100% }
+  25%{ opacity: 0.5; bottom: 15% }
+  75%{ opacity: 1; bottom: 30% }
+  90%{ opacity: 0.5; bottom: -100% }
+}
+
+/*----------------------------------------------   
 --What Down (for Banner)
 -----------------------------------------------  */
 @include keyframes(what-down) {
   0%{ opacity: 0; top: -100% }
-  25%{ opacity: 0.5; top: 40% }
-  75%{ opacity: 1; top: 50% }
+  25%{ opacity: 0.5; top: 15% }
+  75%{ opacity: 1; top: 30% }
   90%{ opacity: 0.5; top: -100% }
 }
 
