@@ -74,4 +74,11 @@
                 color: $color-orange;
 
 	}
+        .slide-what-down {
+                position: absolute;
+                top: 25%;
+                left: 25%;
+                z-index: 5;
+                @include animation(what-down ease-out 9s infinite backwards);
+        }
 }
