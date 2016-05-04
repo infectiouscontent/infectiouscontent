@@ -18,12 +18,13 @@
 		}
 	        .slide {
 	                position: absolute;
-			text-align: center;
+			margin: 0 auto;
+			text-transform: uppercase;
 			font-family: Lato;
 			font-weight: 100;
+			font-size: calc(1.75em + 50%);
 			font-color: $color-light;
 	                z-index: 5;
-			h3 { font-weight: 900; }
 	        }
 	        .what-up {
 	                @include animation(what-up ease-out 9s infinite forwards);
