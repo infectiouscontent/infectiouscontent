@@ -16,22 +16,19 @@
 		h1 {
 			@include animation(fade-in ease-in-out 2s 0.5s both);
 		}
-	        .slide {
-	                position: absolute;
-			margin: 0 auto;
-			text-transform: uppercase;
-			font-family: Lato;
-			font-weight: 100;
-			font-size: calc(1.75em + 50%);
-			font-color: $color-light;
-	                z-index: 5;
-	        }
-	        .what-up {
-	                @include animation(what-up ease-out 9s infinite forwards);
-	        }
-	        .what-down {
-	                @include animation(what-down ease-out 9s infinite forwards);
-	        }
+                .slide {
+                        text-transform: uppercase;
+                        font-family: Lato;
+                        font-weight: 100;
+                        font-size: calc(1.75em + 50%);
+                        font-color: $color-light;
+                }
+                .what-up {
+                        @include animation(what-up ease-out 9s infinite forwards);
+                }
+                .what-down {
+                        @include animation(what-down ease-out 9s infinite forwards);
+                }
 	}
 	p {
 		font-size: 120%;
