@@ -7,6 +7,6 @@
 	</ul>
 	<div class="v-center">
                 <div class="slide what-down"><p>We are an <span style="font-weight: 700;">international organization</span></p></div>
-                <div class="slide what-up"><p>based in <span style="font-weight: 700;">Seoul, South Korea</span>.</p><div class="yellow-button">Usage</div></div>
+                <div class="slide what-up"><p>based in <span style="font-weight: 700;">Seoul, South Korea</span>.</p><div class="yellow-button">read more<i class="pull-right-icon fa fa-chevron-right" style="font-size:15px;"></i></div></div>
 	</div>
 </section>
