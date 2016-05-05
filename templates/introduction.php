@@ -11,7 +11,7 @@
 				</div>
 			</div>
 			<!-- Introduction Text -->
-			<div class="col-xs-12 col-md-6 introduction-title"><div class="titleReveal"><h2>Handshaker</h2></div></div>
+			<div class="col-xs-12 col-md-6 introduction-title"><div class="titleReveal"><h1>handshaker</h1></div></div>
 			<div class="col-xs-12 col-md-6 introduction-line"><div class="colored-line"></div></div>
 			<div class="col-xs-12 col-md-6 introduction-text"><div class="aboutReveal">Handshaker is a Wordpress Theme created by Quilombola Engineering. 
 				In this section you should summarize what your organization is about. This summary shoul be no more
