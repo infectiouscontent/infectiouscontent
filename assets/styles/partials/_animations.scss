@@ -18,43 +18,23 @@
 }
 
 /*----------------------------------------------   
---What Left (for Banner)
+--Move Up (for Banner)
 -----------------------------------------------  */
-@include keyframes(what-left) {
-  0%{ opacity: 0; margin-left: -100% }
-  25%{ opacity: 0.5; margin-left: 0% }
-  75%{ opacity: 1; margin-left: 10% }
-  100%{ opacity: 0; margin-left: -100% }
+@include keyframes(move-up) {
+  0%{ opacity: 0; bottom: -100% }
+  25%{ opacity: 0.5; bottom: 0% }
+  75%{ opacity: 1; bottom: 10% }
+  100%{ opacity: 0; bottom: -100% }
 }
 
 /*----------------------------------------------   
---What Right (for Banner)
+--Move Down (for Banner)
 -----------------------------------------------  */
-@include keyframes(what-right) {
-  0%{ opacity: 0; margin-bottom: -100% }
-  25%{ opacity: 0.5; margin-bottom: 0% }
-  75%{ opacity: 1; margin-bottom: 10% }
-  100%{ opacity: 0; margin-bottom: -100% }
-}
-
-/*----------------------------------------------   
---What Up (for Banner)
------------------------------------------------  */
-@include keyframes(what-up) {
-  0%{ opacity: 0; margin-top: 100vh }
-  25%{ opacity: 0.5; margin-top: 90vh }
-  75%{ opacity: 1; margin-top: 80vh }
-  100%{ opacity: 0; margin-top: 100vh }
-}
-
-/*----------------------------------------------   
---What Down (for Banner)
------------------------------------------------  */
-@include keyframes(what-down) {
-  0%{ opacity: 0; margin-top: -100% }
-  25%{ opacity: 0.5; margin-top: 0% }
-  75%{ opacity: 1; margin-top: 10% }
-  100%{ opacity: 0; margin-top: -100% }
+@include keyframes(move-down) {
+  0%{ opacity: 0; top: -100% }
+  25%{ opacity: 0.5; top: 0% }
+  75%{ opacity: 1; top: 10% }
+  100%{ opacity: 0; top: -100% }
 }
 
 /*----------------------------------------------   
