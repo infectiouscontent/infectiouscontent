@@ -6,13 +6,14 @@
 	text-align: center;
 	height: 100vh;
 	color: $color-orange-alpha;
+	overflow: hidden;
 	@include overlay($color-dark, 0.8);
 	.v-center {
 		display: table-cell;
+		position: relative;
 		vertical-align: middle;
 		z-index: 4;
                 .slide {
-			position: relative;
                         text-transform: uppercase;
                         font-family: Lato;
                         font-weight: 100;
@@ -22,9 +23,11 @@
                         color: $color-light;
                 }
                 .move-up {
+			position: absolute;
                         @include animation(move-up ease-out 9s infinite forwards);
                 }
                 .move-down {
+			position: absolute;
                         @include animation(move-down ease-out 9s infinite forwards);
                 }
 	}
