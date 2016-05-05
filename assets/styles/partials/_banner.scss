@@ -65,18 +65,24 @@
 	}
 	.yellow-button {
 		@include animation(fade-in ease-in-out 1s 1s both);
+		position: relative;
+		display: table;
                 border: 1px solid $color-dark;
                 border-radius: 50px;
                 background-color: $color-yellow;
-                font-family: Lato;
-		font-weight: 900;
-		font-size: 15px;
-                text-align: center;
-                padding-top: 35px;
-                color: $color-dark;
-                transition: ease-out 0.5s;
                 width: 100px;
                 height: 100px;
+                transition: ease-out 0.5s;
+		p {
+			display: table-cell;
+			position: relative;
+			vertical-align: middle;
+                	font-family: Lato;
+			font-weight: 900;
+			font-size: 15px;
+                	text-align: center;
+                	color: $color-dark;
+		}
 	}
 	.yellow-button:hover {
                 background-color: white;
