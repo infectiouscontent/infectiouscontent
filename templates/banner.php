@@ -7,11 +7,10 @@
 	</ul>
 	<div class="v-center">
                 <div class="slide move-down">
-			<p>We are an <span style="font-weight: 900;">international organization</span></p>
+			<p>We are an <span style="font-weight: 900;">international organization</span> based in <span style="font-weight: 900;">Seoul, South Korea</span>. 
 		</div>
                 <div class="slide move-up">
-			<p>based in <span style="font-weight: 900;">Seoul, South Korea</span>. 
-			<div class="yellow-button"> read more <i class="fa fa-chevron-right" style="font-size:15px;"></i></div>
+			<div class="yellow-button"> read more <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i></div>
 			</p>
 		</div>
 	</div>
