@@ -21,10 +21,10 @@
 			line-height: 44px;
                         color: $color-light;
                 }
-                .what-up {
+                .move-up {
                         @include animation(move-up ease-out 9s infinite forwards);
                 }
-                .what-down {
+                .move-down {
                         @include animation(move-down ease-out 9s infinite forwards);
                 }
 	}
