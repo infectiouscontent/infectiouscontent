@@ -18,13 +18,33 @@
 }
 
 /*----------------------------------------------   
---What Up (for Banner)
+--What Left (for Banner)
 -----------------------------------------------  */
-@include keyframes(what-up) {
+@include keyframes(what-left) {
+  0%{ opacity: 0; margin-left: -100% }
+  25%{ opacity: 0.5; margin-left: 0% }
+  75%{ opacity: 1; margin-left: 10% }
+  100%{ opacity: 0; margin-left: -100% }
+}
+
+/*----------------------------------------------   
+--What Right (for Banner)
+-----------------------------------------------  */
+@include keyframes(what-right) {
   0%{ opacity: 0; margin-bottom: -100% }
   25%{ opacity: 0.5; margin-bottom: 0% }
   75%{ opacity: 1; margin-bottom: 10% }
   100%{ opacity: 0; margin-bottom: -100% }
+}
+
+/*----------------------------------------------   
+--What Up (for Banner)
+-----------------------------------------------  */
+@include keyframes(what-up) {
+  0%{ opacity: 0; margin-top: 200vh }
+  25%{ opacity: 0.5; margin-top: 90vh }
+  75%{ opacity: 1; margin-top: 80vh }
+  100%{ opacity: 0; margin-top: 200vh }
 }
 
 /*----------------------------------------------   
