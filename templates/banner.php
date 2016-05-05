@@ -11,7 +11,7 @@
 		</div>
                 <div class="slide what-up">
 			<p>based in <span style="font-weight: 700;">Seoul, South Korea</span>. 
-			<div class="yellow-button"> read more <i class="pull-right-icon fa fa-chevron-right" style="font-size:15px;"></i></div>
+			<div class="yellow-button"> read more <i class="fa fa-chevron-right" style="font-size:15px;"></i></div>
 			</p>
 		</div>
 	</div>
