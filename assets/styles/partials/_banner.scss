@@ -24,10 +24,11 @@
                         color: $color-light;
 			width: 90vw;
 			margin-left: -30vw;
+			margin-top: -25vw;
 			opacity:0;
                 }
-		@media (max-width: 400px) {
-			margin-top: -25vh;
+		@media (min-width: $mq-med) {
+			margin-top: 0;
 		}
                 .move-up {
 			position: absolute;
