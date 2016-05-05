@@ -10,7 +10,7 @@
 			<p>We are an <span style="font-weight: 900;">international organization</span> based in <span style="font-weight: 900;">Seoul, South Korea</span>. 
 		</div>
                 <div class="slide move-up">
-			<div class="yellow-button"> read more <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i></div>
+			<div class="yellow-button"> more <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i></div>
 			</p>
 		</div>
 	</div>
