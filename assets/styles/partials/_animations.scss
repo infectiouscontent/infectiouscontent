@@ -18,22 +18,22 @@
 }
 
 /*----------------------------------------------   
---Move Up (for Banner)
+--Move Up (for Slide)
 -----------------------------------------------  */
 @include keyframes(move-up) {
   0%{ opacity: 0; bottom: -100% }
   25%{ opacity: 0.5; bottom: 0% }
-  75%{ opacity: 1; bottom: 25% }
+  75%{ opacity: 1; bottom: 35% }
   100%{ opacity: 0; bottom: -100% }
 }
 
 /*----------------------------------------------   
---Move Down (for Banner)
+--Move Down (for Slide)
 -----------------------------------------------  */
 @include keyframes(move-down) {
   0%{ opacity: 0; top: -100% }
   25%{ opacity: 0.5; top: 0% }
-  75%{ opacity: 1; top: 25% }
+  75%{ opacity: 1; top: 35% }
   100%{ opacity: 0; top: -100% }
 }
 
