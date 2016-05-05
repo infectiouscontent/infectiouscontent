@@ -12,7 +12,7 @@
 }
 
 h1 {
-	text-align: center;
+	color: $color-dark;
 	font-size: calc(1.75em + 50%);
 	@include animation(fade-in ease-in-out 2s 0.5s both);
 }
@@ -29,7 +29,6 @@ h1 {
 .introduction-title {
 	margin: 0;
 	padding-bottom: 1em;
-	color: $color-dark;
 }
 
 .introduction-line {
