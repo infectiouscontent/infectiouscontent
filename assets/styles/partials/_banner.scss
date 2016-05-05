@@ -22,14 +22,15 @@
 			line-height: 44px;
                         line-height: calc(2.00em + 50%);
                         color: $color-light;
-			width: 90vw;
                 }
                 .move-up {
 			position: absolute;
+			width: 90vw;
                         @include animation(move-up ease-out 9s infinite forwards);
                 }
                 .move-down {
 			position: absolute;
+			width: 90vw;
                         @include animation(move-down ease-out 9s infinite forwards);
                 }
 	}
