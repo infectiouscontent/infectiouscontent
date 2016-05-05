@@ -26,6 +26,9 @@
 			margin-left: -30vw;
 			opacity:0;
                 }
+		@media (max-width: $mq-med) {
+			margin-top: -25%;
+		}
                 .move-up {
 			position: absolute;
                         @include animation(move-up ease-out 9s 2s infinite forwards);
