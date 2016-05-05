@@ -26,7 +26,7 @@
 			margin-left: -30vw;
 			opacity:0;
                 }
-		@media (max-width: $mq-med) {
+		@media (min-width: $mq-med) {
 			margin-top: -25vh;
 		}
                 .move-up {
