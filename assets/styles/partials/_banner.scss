@@ -12,7 +12,7 @@
 		display: table-cell;
 		position: relative;
 		vertical-align: middle;
-		z-index: 4;
+		z-index: 5;
                 .slide {
                         text-transform: uppercase;
                         font-family: Lato;
@@ -20,7 +20,7 @@
 			font-size: 36px;
                         font-size: calc(1.75em + 50%);
 			line-height: 44px;
-                        line-height: calc(2.00em + 50%);
+                        line-height: calc(1.05em + 50%);
                         color: $color-light;
 			width: 90vw;
 			margin-left: -30vw;

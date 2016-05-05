@@ -60,7 +60,7 @@
       	sr.reveal('.aboutReveal', aboutReveal);
 </script>
 
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
 <script type="text/javascript">
 // Sticky Header
 $(window).scroll(function() {

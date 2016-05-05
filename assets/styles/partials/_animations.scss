@@ -22,8 +22,8 @@
 -----------------------------------------------  */
 @include keyframes(move-up) {
   0%{ opacity: 0; bottom: -100% }
-  25%{ opacity: 1; bottom: 35% }
-  75%{ opacity: 0.5; bottom: 35% }
+  25%{ opacity: 1; bottom: 15% }
+  75%{ opacity: 0.5; bottom: 15% }
   100%{ opacity: 0; bottom: -100% }
 }
 
