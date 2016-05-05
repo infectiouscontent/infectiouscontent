@@ -27,11 +27,11 @@
                 }
                 .move-up {
 			position: absolute;
-                        @include animation(move-up ease-out 9s 1.5s infinite forwards);
+                        @include animation(move-up ease-out 9s 2s infinite forwards);
                 }
                 .move-down {
 			position: absolute;
-                        @include animation(move-down ease-out 9s 1.5s infinite forwards);
+                        @include animation(move-down ease-out 9s 2s infinite forwards);
                 }
 	}
  	ul.keyframe-slider {
