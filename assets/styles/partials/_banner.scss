@@ -70,13 +70,14 @@
 	}
 	.yellow-button {
 		@include animation(fade-in ease-in-out 1s 1s both);
+		display: inline;
                 margin: 1em auto;
                 border: 1px solid $color-dark;
                 border-radius: 1px;
                 background-color: $color-yellow;
                 font-family: Lato;
 		font-style: italic;
-		font-size: 0.7em;
+		font-size: 0.5em;
                 text-align: center;
                 line-height: 0.9em;
                 color: $color-dark;
