@@ -31,6 +31,14 @@
 			line-height: 44px;
                         line-height: calc(1.05em + 25%);
 		}
+                .vflip {
+			position: relative;
+                        @include animation(vflip ease-out 27s 2s infinite forwards);
+                }
+                .vflop {
+			position: relative;
+                        @include animation(vflop ease-out 27s 2s infinite forwards);
+                }
                 .up {
 			position: relative;
                         @include animation(move-up ease-out 27s 2s infinite forwards);
