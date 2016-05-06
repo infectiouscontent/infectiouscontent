@@ -33,7 +33,6 @@
 		}
                 .vflop {
 			position: relative;
-			transform: rotateX(180deg);
                         @include animation(vflop ease-out 27s 2s infinite forwards);
                 }
                 .up {
