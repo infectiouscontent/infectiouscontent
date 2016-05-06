@@ -41,11 +41,11 @@
                 }
                 .up {
 			position: relative;
-                        @include animation(move-up ease-out 27s 2s infinite forwards);
+                        @include animation(move-up ease-out 27s infinite forwards);
                 }
                 .down {
 			position: relative;
-                        @include animation(move-down ease-out 27s 2s infinite forwards);
+                        @include animation(move-down ease-out 27s infinite forwards);
                 }
 	}
  	ul.keyframe-slider {
