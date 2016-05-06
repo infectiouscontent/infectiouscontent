@@ -18,26 +18,6 @@
 }
 
 /*----------------------------------------------   
---Vertical Flip (for Slide)
------------------------------------------------  */
-@include keyframes(vflip) {
-  34%{ opacity: 0; margin-top: 25vh; z-index: 5 }
-  45%{ opacity: 1; margin-top: 0 }
-  56%{ opacity: 1; margin-top: 0 }
-  67%{ opacity: 0; margin-top: 25vh; z-index: 1 }
-}
-
-/*----------------------------------------------   
---Vertical Flop (for Slide)
------------------------------------------------  */
-@include keyframes(vflop) {
-  34%{ opacity: 0; z-index: 5 }
-  45%{ opacity: 1; rotateX(180deg) }
-  56%{ opacity: 1; rotateX(180deg) }
-  67%{ opacity: 0; z-index: 1 }
-}
-
-/*----------------------------------------------   
 --Move Up (for Slide)
 -----------------------------------------------  */
 @include keyframes(move-up) {
