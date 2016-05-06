@@ -22,6 +22,6 @@
     }
   },
   "config": {
-    "devUrl": "https://international-vaccineinstitute.rhcloud.com"
+    "devUrl": "http://international-vaccineinstitute.rhcloud.com"
   }
 }
