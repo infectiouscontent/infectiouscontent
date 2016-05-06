@@ -22,7 +22,8 @@
 			line-height: 44px;
                         line-height: calc(1.75em + 25%);
                         color: $color-light;
-			opacity:0;
+			opacity: 0;
+			height: 100vh;
                 }
 		@media (min-width: $mq-xsmall) {
 			font-size: 36px;
