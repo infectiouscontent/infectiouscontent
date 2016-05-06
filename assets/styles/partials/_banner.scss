@@ -67,12 +67,11 @@
 	}
 	.yellow-button {
 		@include animation(fade-in ease-in-out 1s 1s both);
+		@include radial-gradient($color-yellow, $color-dark);
 		position: relative;
 		display: table;
                 border: 1px solid $color-dark;
                 border-radius: 50px;
-                background-color: $color-yellow;
-		background-image: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); 
                 width: 100px;
                 height: 100px;
                 transition: ease-out 0.5s;
