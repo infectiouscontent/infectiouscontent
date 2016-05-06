@@ -37,6 +37,7 @@
  	ul.keyframe-slider {
 		li {
 			@include bg-abs;
+			background-attachment: fixed;
 			opacity: 0;
 			@include animation(fade-out 27s infinite both);
 			background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/whiteheads-800x1200px.jpeg);
