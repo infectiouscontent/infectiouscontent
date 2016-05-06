@@ -23,9 +23,8 @@
                         line-height: calc(1.75em + 25%);
                         color: $color-light;
 			opacity: 0;
-			height: 100vh;
                 }
-		@media (min-width: $mq-xsmall) {
+		@media (min-width: $mq-small) {
 			font-size: 36px;
                         font-size: calc(1.75em + 25%);
 			line-height: 44px;
