@@ -22,9 +22,11 @@
 			line-height: 44px;
                         line-height: calc(1.05em + 50%);
                         color: $color-light;
-			width: 90vw;
 			opacity:0;
                 }
+		@media (max-width: $mq-med) {
+                        font-size: calc(0.75em + 50%);
+		}
                 .move-up {
 			position: relative;
                         @include animation(move-up ease-out 9s 2s infinite forwards);
