@@ -24,7 +24,7 @@
                         color: $color-light;
 			opacity:0;
                 }
-		@media (max-width: $mq-med) {
+		@media (max-width: $mq-xsmall) {
                         font-size: calc(0.75em + 50%);
 		}
                 .move-up {
