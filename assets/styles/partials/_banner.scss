@@ -30,29 +30,13 @@
 			line-height: 44px;
                         line-height: calc(1.05em + 25%);
 		}
-                .flip {
-			position: relative;
-                        @include animation(move-left ease-out 9s 2s infinite forwards);
-                }
-                .flop {
-			position: relative;
-                        @include animation(move-right ease-out 9s 2s infinite forwards);
-                }
-                .left {
-			position: relative;
-                        @include animation(move-left ease-out 9s 11s infinite forwards);
-                }
-                .right {
-			position: relative;
-                        @include animation(move-right ease-out 9s 11s infinite forwards);
-                }
                 .up {
 			position: relative;
-                        @include animation(move-up ease-out 9s 20s infinite forwards);
+                        @include animation(move-up ease-out 9s 2s infinite forwards);
                 }
                 .down {
 			position: relative;
-                        @include animation(move-down ease-out 9s 20s infinite forwards);
+                        @include animation(move-down ease-out 9s 2s infinite forwards);
                 }
 	}
  	ul.keyframe-slider {
