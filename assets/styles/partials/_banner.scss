@@ -27,15 +27,12 @@
 			margin-top: -25vh;
 			opacity:0;
                 }
-		@media (min-width: $mq-med) {
-			margin-top: 10vh;
-		}
                 .move-up {
-			position: absolute;
+			position: relative;
                         @include animation(move-up ease-out 9s 2s infinite forwards);
                 }
                 .move-down {
-			position: absolute;
+			position: relative;
                         @include animation(move-down ease-out 9s 2s infinite forwards);
                 }
 	}
