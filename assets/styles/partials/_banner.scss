@@ -35,10 +35,6 @@
 			position: relative;
                         @include animation(vflop ease-out 27s 2s infinite forwards);
                 }
-                .vflop {
-			position: relative;
-                        @include animation(vflop ease-out 27s 2s infinite forwards);
-                }
                 .up {
 			position: relative;
                         @include animation(move-up ease-out 27s 11s infinite forwards);
