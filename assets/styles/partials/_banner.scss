@@ -69,6 +69,7 @@
                 border: 1px solid $color-dark;
                 border-radius: 50px;
                 background-color: $color-yellow;
+		background-image: radial-gradient(16px at 60px 50% , #000000 0%, #000000 14px, rgba(0, 0, 0, 0.3) 18px, rgba(0, 0, 0, 0) 19px);
                 width: 100px;
                 height: 100px;
                 transition: ease-out 0.5s;
