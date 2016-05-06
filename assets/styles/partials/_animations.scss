@@ -31,10 +31,10 @@
 --Move Down (for Slide)
 -----------------------------------------------  */
 @include keyframes(move-down) {
-  0%{ opacity: 0; margin-bottom: 200vh }
+  0%{ opacity: 0; margin-bottom: 100vh }
   25%{ opacity: 1; margin-bottom: 0 }
   75%{ opacity: 1; margin-bottom: 0 }
-  100%{ opacity: 0; margin-bottom: 200vh }
+  100%{ opacity: 0; margin-bottom: 100vh }
 }
 
 /*----------------------------------------------   
