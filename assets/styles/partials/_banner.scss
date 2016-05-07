@@ -9,6 +9,7 @@
 	overflow: hidden;
 	@include overlay($color-dark, 0.8);
 	.stack {
+		z-index: 5;
 		position: absolute;
 		.layer-1 {
 			position: relative;
