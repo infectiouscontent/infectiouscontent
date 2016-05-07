@@ -10,7 +10,7 @@
 	@include overlay($color-dark, 0.8);
 	.v-center {
 		display: table-cell;
-		position: relative;
+		position: absolute;
 		vertical-align: middle;
 		z-index: 5;
 		.layer-1 { z-index: 6; }
