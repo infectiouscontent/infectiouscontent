@@ -29,9 +29,9 @@
 				position: relative;
 				display: table-cell;
 				vertical-align: middle;
-				opacity: 0;
 	                	.push {
 					position: relative;
+					opacity: 0;
 	                        	@include animation(vflop ease-out 27s 2s infinite forwards);
 	                	}
 	                }
@@ -51,13 +51,14 @@
 				position: relative;
 				display: table-cell;
 				vertical-align: middle;
-				opacity: 0;
 	                	.left {
 					position: relative;
+					opacity: 0;
 	                        	@include animation(move-left ease-out 27s 11s infinite forwards);
 	                	}
 	                	.right {
 					position: relative;
+					opacity: 0;
 	                        	@include animation(move-right ease-out 27s 11s infinite forwards);
 	                	}
 	                }
@@ -77,13 +78,14 @@
 				position: relative;
 				display: table-cell;
 				vertical-align: middle;
-				opacity: 0;
 	                	.up {
 					position: relative;
+					opacity: 0;
 	                	        @include animation(move-up ease-out 27s 20s infinite forwards);
 	        	        }
 		                .down {
 					position: relative;
+					opacity: 0;
 	                        	@include animation(move-down ease-out 27s 20s infinite forwards);
 	                	}
 	                }
