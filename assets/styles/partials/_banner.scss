@@ -15,17 +15,6 @@
 			position: relative;
 			display: table;
 			z-index: 1;
-		}
-		.layer-2 {
-			position: relative;
-			display: table;
-			z-index: 2;
-		}
-		.layer-3 {
-			position: relative;
-			display: table;
-			z-index: 3;
-		}
 	                .slide {
 				display: table-cell;
 				position: relative;
@@ -46,6 +35,57 @@
 				line-height: 44px;
 	                        line-height: calc(1.05em + 25%);
 			}
+		}
+		.layer-2 {
+			position: relative;
+			display: table;
+			z-index: 2;
+	                .slide {
+				display: table-cell;
+				position: relative;
+				vertical-align: middle;
+	                        text-transform: uppercase;
+	                        font-family: Lato;
+	                        font-weight: 100;
+				font-size: 36px;
+	                        font-size: calc(1.25em + 25%);
+				line-height: 44px;
+	                        line-height: calc(1.75em + 25%);
+	                        color: $color-light;
+				opacity: 0;
+	                }
+			@media (min-width: $mq-small) {
+				font-size: 36px;
+	                        font-size: calc(1.75em + 25%);
+				line-height: 44px;
+	                        line-height: calc(1.05em + 25%);
+			}
+		}
+		.layer-3 {
+			position: relative;
+			display: table;
+			z-index: 3;
+	                .slide {
+				display: table-cell;
+				position: relative;
+				vertical-align: middle;
+	                        text-transform: uppercase;
+	                        font-family: Lato;
+	                        font-weight: 100;
+				font-size: 36px;
+	                        font-size: calc(1.25em + 25%);
+				line-height: 44px;
+	                        line-height: calc(1.75em + 25%);
+	                        color: $color-light;
+				opacity: 0;
+	                }
+			@media (min-width: $mq-small) {
+				font-size: 36px;
+	                        font-size: calc(1.75em + 25%);
+				line-height: 44px;
+	                        line-height: calc(1.05em + 25%);
+			}
+		}
 	                .push {
 				position: relative;
 	                        @include animation(vflop ease-out 27s 2s infinite forwards);
