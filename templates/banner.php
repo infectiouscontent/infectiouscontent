@@ -6,12 +6,14 @@
 		<li></li>
 	</ul>
 	<div class="stack-1">
+		<div class="centering">
                 	<div class="push">
 				<p> We develop <span style="font-weight: 900;">vaccines</span> for <span style="font-weight: 900;">global health</span>. </p>
 			</div>
                 	<div class="push">
 				<div class="yellow-button"> <p> join us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div>
 			</div>
+		</div>
 	</div>
 	<div class="stack-2">
                 	<div class="left">

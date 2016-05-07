@@ -19,6 +19,18 @@
 		z-index: 5;
 		position: absolute;
 		opacity: 0;
+		.centering {
+			position: relative;
+			display: table;
+			height: 100%;
+			width: 100%;
+	                .push {
+				position: relative;
+				display: table-cell;
+				vertical-align: middle;
+	                        @include animation(vflop ease-out 27s 2s infinite forwards);
+	                }
+		}
 	}
 	.stack-2 {
 		z-index: 6;
