@@ -36,6 +36,8 @@
 	                	.push {
 					position: relative;
 					opacity: 0;
+					width: 80%;
+					margin: 0 auto;
 	                        	@include animation(push ease-out 27s 2s infinite forwards);
 	                	}
 	                }
