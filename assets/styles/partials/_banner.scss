@@ -19,11 +19,11 @@
 		z-index: 5;
 		position: absolute;
 		opacity: 0;
+		height: 100%;
+		width: 100%;
 		.centering {
 			position: relative;
 			display: table;
-			height: 100%;
-			width: 100%;
 	                .push {
 				position: relative;
 				display: table-cell;
@@ -36,11 +36,35 @@
 		z-index: 6;
 		position: absolute;
 		opacity: 0;
+		height: 100%;
+		width: 100%;
+		.centering {
+			position: relative;
+			display: table;
+	                .push {
+				position: relative;
+				display: table-cell;
+				vertical-align: middle;
+	                        @include animation(vflop ease-out 27s 2s infinite forwards);
+	                }
+		}
 	}
 	.stack-3 {
 		z-index: 7;
 		position: absolute;
 		opacity: 0;
+		height: 100%;
+		width: 100%;
+		.centering {
+			position: relative;
+			display: table;
+	                .push {
+				position: relative;
+				display: table-cell;
+				vertical-align: middle;
+	                        @include animation(vflop ease-out 27s 2s infinite forwards);
+	                }
+		}
 	}
 	                .push {
 				position: relative;
