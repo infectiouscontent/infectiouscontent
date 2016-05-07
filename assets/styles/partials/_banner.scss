@@ -36,11 +36,11 @@
                 }
                 .left {
 			position: relative;
-                        @include animation(left-up ease-out 27s 11s infinite forwards);
+                        @include animation(move-left ease-out 27s 11s infinite forwards);
                 }
                 .right {
 			position: relative;
-                        @include animation(right-down ease-out 27s 11s infinite forwards);
+                        @include animation(move-right ease-out 27s 11s infinite forwards);
                 }
                 .up {
 			position: relative;
