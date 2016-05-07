@@ -1,6 +1,6 @@
 <section id="navigation" class="section-navigation">
     <div class="row">
-        <a class="logo" href="#" style="text-decoration: none;">HANDSHAKER</a>
+        <a class="logo" href="#" style="text-decoration: none;"><img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-logo-2400x600px.png"></a>
 
         <div class="mobile-toggle">
             <span></span>
