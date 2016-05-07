@@ -48,11 +48,18 @@
 			display: table;
 			height: 100%;
 			width: 100%;
-	                .push {
+	                .statement {
 				position: relative;
 				display: table-cell;
 				vertical-align: middle;
-	                        @include animation(vflop ease-out 27s 2s infinite forwards);
+	                	.left {
+					position: relative;
+	                        	@include animation(move-left ease-out 27s 11s infinite forwards);
+	                	}
+	                	.right {
+					position: relative;
+	                        	@include animation(move-right ease-out 27s 11s infinite forwards);
+	                	}
 	                }
 		}
 	}
@@ -75,14 +82,6 @@
 	                }
 		}
 	}
-	                .left {
-				position: relative;
-	                        @include animation(move-left ease-out 27s 11s infinite forwards);
-	                }
-	                .right {
-				position: relative;
-	                        @include animation(move-right ease-out 27s 11s infinite forwards);
-	                }
 	                .up {
 				position: relative;
 	                        @include animation(move-up ease-out 27s 20s infinite forwards);
