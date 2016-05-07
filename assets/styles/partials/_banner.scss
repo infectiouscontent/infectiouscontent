@@ -14,16 +14,25 @@
 		.layer-1 {
 			position: relative;
 			display: table;
+				display: table-cell;
+				position: relative;
+				vertical-align: middle;
 			z-index: 1;
 		}
 		.layer-2 {
 			position: relative;
 			display: table;
+				display: table-cell;
+				position: relative;
+				vertical-align: middle;
 			z-index: 2;
 		}
 		.layer-3 {
 			position: relative;
 			display: table;
+				display: table-cell;
+				position: relative;
+				vertical-align: middle;
 			z-index: 3;
 		}
 	}
