@@ -1,4 +1,4 @@
-<section id="ribbon" class="section-ribbon orange-ribbon">
+<section id="ribbon" class="section-ribbon">
 	<!-- Usage Guide -->
 	<div class="container">
 		<div class="row">
