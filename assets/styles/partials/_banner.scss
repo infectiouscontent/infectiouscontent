@@ -37,19 +37,19 @@
                 }
                 .left {
 			position: relative;
-                        @include animation(move-up ease-out 27s 11s infinite forwards);
+                        @include animation(left-up ease-out 27s 11s infinite forwards);
                 }
                 .right {
 			position: relative;
-                        @include animation(move-down ease-out 27s 11s infinite forwards);
+                        @include animation(right-down ease-out 27s 11s infinite forwards);
                 }
                 .up {
 			position: relative;
-                        @include animation(move-up ease-out 27s 11s infinite forwards);
+                        @include animation(move-up ease-out 27s 20s infinite forwards);
                 }
                 .down {
 			position: relative;
-                        @include animation(move-down ease-out 27s 11s infinite forwards);
+                        @include animation(move-down ease-out 27s 20s infinite forwards);
                 }
 	}
  	ul.keyframe-slider {
