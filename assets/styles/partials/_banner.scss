@@ -74,22 +74,21 @@
 			display: table;
 			height: 100%;
 			width: 100%;
-	                .push {
+	                .statement {
 				position: relative;
 				display: table-cell;
 				vertical-align: middle;
-	                        @include animation(vflop ease-out 27s 2s infinite forwards);
+	                	.up {
+					position: relative;
+	                	        @include animation(move-up ease-out 27s 20s infinite forwards);
+	        	        }
+		                .down {
+					position: relative;
+	                        	@include animation(move-down ease-out 27s 20s infinite forwards);
+	                	}
 	                }
 		}
 	}
-	                .up {
-				position: relative;
-	                        @include animation(move-up ease-out 27s 20s infinite forwards);
-	                }
-	                .down {
-				position: relative;
-	                        @include animation(move-down ease-out 27s 20s infinite forwards);
-	                }
  	ul.keyframe-slider {
 		li {
 			@include bg-abs;
