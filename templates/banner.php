@@ -5,7 +5,7 @@
 		<li></li>
 		<li></li>
 	</ul>
-	<div class="stack layer-3">
+	<div class="stack"><div class="layer-3">
 		<div class="centering">
                 	<div class="slide push">
 				<p> We develop <span style="font-weight: 900;">vaccines</span> for <span style="font-weight: 900;">global health</span>. </p>
@@ -15,7 +15,8 @@
 			</div>
 		</div>
 	</div>
-	<div class="stack layer-2">
+	</div>
+	<div class="stack"><div class="layer-2">
 		<div class="centering">
                 	<div class="slide left">
 				<p> We <span style="font-weight: 900;">collaborate globally</span> to fight <span style="font-weight: 900;">infectious disease</span>. </p>
@@ -25,7 +26,8 @@
 			</div>
 		</div>
 	</div>
-	<div class="stack layer-1">
+	</div>
+	<div class="stack"><div class="layer-1">
 		<div class="centering">
                 	<div class="slide down">
 				<p> We are an <span style="font-weight: 900;">international organization</span> based in <span style="font-weight: 900;">Seoul, South Korea</span>. </p>
@@ -34,5 +36,6 @@
 				<div class="yellow-button"> <p> find us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div>
 			</div>
 		</div>
+	</div>
 	</div>
 </section>
