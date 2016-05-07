@@ -24,7 +24,7 @@
 			position: relative;
 			display: table;
 			height: 100%;
-			width: 80vw;
+			min-width: 100%;
 	                .statement {
 				position: relative;
 				display: table-cell;
@@ -46,7 +46,7 @@
 			position: relative;
 			display: table;
 			height: 100%;
-			width: 80vw;
+			min-width: 100%;
 	                .statement {
 				position: relative;
 				display: table-cell;
@@ -68,12 +68,12 @@
 		z-index: 7;
 		position: absolute;
 		height: 100%;
-		width: 100%;
+		min-width: 100%;
 		.centering {
 			position: relative;
 			display: table;
 			height: 100%;
-			width: 80vw;
+			width: 100%;
 	                .statement {
 				position: relative;
 				display: table-cell;
