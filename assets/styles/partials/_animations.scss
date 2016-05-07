@@ -28,6 +28,26 @@
 }
 
 /*----------------------------------------------   
+--Move Left (for Slide)
+-----------------------------------------------  */
+@include keyframes(move-left) {
+  0%{ opacity: 0; margin-left: 25vh }
+  11%{ opacity: 1; margin-left: 0 }
+  22%{ opacity: 1; margin-left: 0 }
+  33%{ opacity: 0; margin-left: 25vh }
+}
+
+/*----------------------------------------------   
+--Move Right (for Slide)
+-----------------------------------------------  */
+@include keyframes(move-right) {
+  0%{ opacity: 0; margin-right: 25vh }
+  11%{ opacity: 1; margin-right: 0 }
+  22%{ opacity: 1; margin-right: 0 }
+  33%{ opacity: 0; margin-right: 25vh }
+}
+
+/*----------------------------------------------   
 --Move Up (for Slide)
 -----------------------------------------------  */
 @include keyframes(move-up) {
