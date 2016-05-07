@@ -7,10 +7,10 @@
 	</ul>
 	<div class="layer-3">
 		<div class="banner-frame v-center">
-                	<div class="slide right">
+                	<div class="slide push">
 				<p> We develop <span style="font-weight: 900;">vaccines</span> for <span style="font-weight: 900;">global health</span>. </p>
 			</div>
-                	<div class="slide left">
+                	<div class="slide push">
 				<div class="yellow-button"> <p> join us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div>
 			</div>
 		</div>
