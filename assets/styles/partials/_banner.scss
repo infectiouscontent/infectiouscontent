@@ -36,7 +36,6 @@
 	                	.push {
 					position: relative;
 					opacity: 0;
-					min-width: 100%;
 	                        	@include animation(push ease-out 27s 2s infinite forwards);
 	                	}
 	                }
@@ -59,6 +58,7 @@
 	                	.left {
 					position: relative;
 					opacity: 0;
+					min-width: 100%;
 	                        	@include animation(left ease-out 27s 11s infinite forwards);
 	                	}
 	                	.right {
