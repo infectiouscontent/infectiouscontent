@@ -5,35 +5,35 @@
 	margin: 0 auto;
 	text-align: center;
 	height: 100vh;
-	color: $color-orange-alpha;
+	text-transform: uppercase;
+	font-family: Lato;
+	font-weight: 100;
+	font-size: 36px;
+	font-size: calc(1.25em + 25%);
+	line-height: 44px;
+	line-height: calc(1.75em + 25%);
+	color: $color-light;
+	opacity: 0;
 	overflow: hidden;
 	@include overlay($color-dark, 0.8);
-	.stack {
+	.stack-1 {
 		z-index: 5;
 		position: relative;
 		display: table-cell;
 		vertical-align: middle;
-		text-transform: uppercase;
-		font-family: Lato;
-		font-weight: 100;
-		font-size: 36px;
-		font-size: calc(1.25em + 25%);
-		line-height: 44px;
-		line-height: calc(1.75em + 25%);
-		color: $color-light;
-		opacity: 0;
-		.layer-1 {
-			position: absolute;
-			z-index: 1;
-		}
-		.layer-2 {
-			position: absolute;
-			z-index: 2;
-		}
-		.layer-3 {
-			position: absolute;
-			z-index: 3;
-		}
+	}
+	.stack-1 {
+		z-index: 6;
+		position: relative;
+		display: table-cell;
+		vertical-align: middle;
+	}
+	.stack-1 {
+		z-index: 7;
+		position: relative;
+		display: table-cell;
+		vertical-align: middle;
+	}
 	                .push {
 				position: relative;
 	                        @include animation(vflop ease-out 27s 2s infinite forwards);
@@ -54,13 +54,6 @@
 				position: relative;
 	                        @include animation(move-down ease-out 27s 20s infinite forwards);
 	                }
-	}
-			@media (min-width: $mq-small) {
-				font-size: 36px;
-	                        font-size: calc(1.75em + 25%);
-				line-height: 44px;
-	                        line-height: calc(1.05em + 25%);
-			}
  	ul.keyframe-slider {
 		li {
 			@include bg-abs;
@@ -115,4 +108,10 @@
                 color: $color-orange;
 
 	}
+}
+@media (min-width: $mq-small) {
+	font-size: 36px;
+	font-size: calc(1.75em + 25%);
+	line-height: 44px;
+	line-height: calc(1.05em + 25%);
 }
