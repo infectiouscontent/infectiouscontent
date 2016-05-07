@@ -13,6 +13,9 @@
 		position: relative;
 		vertical-align: middle;
 		z-index: 5;
+		.layer-1 { z-index: 1; }
+		.layer-2 { z-index: 2; }
+		.layer-3 { z-index: 3; }
                 .slide {
                         text-transform: uppercase;
                         font-family: Lato;
