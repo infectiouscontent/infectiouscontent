@@ -32,7 +32,7 @@
 	                	.push {
 					position: relative;
 					opacity: 0;
-	                        	@include animation(vflop ease-out 27s 2s infinite forwards);
+	                        	@include animation(push ease-out 27s 2s infinite forwards);
 	                	}
 	                }
 		}
@@ -54,12 +54,12 @@
 	                	.left {
 					position: relative;
 					opacity: 0;
-	                        	@include animation(move-left ease-out 27s 11s infinite forwards);
+	                        	@include animation(left ease-out 27s 11s infinite forwards);
 	                	}
 	                	.right {
 					position: relative;
 					opacity: 0;
-	                        	@include animation(move-right ease-out 27s 11s infinite forwards);
+	                        	@include animation(right ease-out 27s 11s infinite forwards);
 	                	}
 	                }
 		}
@@ -81,12 +81,12 @@
 	                	.up {
 					position: relative;
 					opacity: 0;
-	                	        @include animation(move-up ease-out 27s 20s infinite forwards);
+	                	        @include animation(up ease-out 27s 20s infinite forwards);
 	        	        }
 		                .down {
 					position: relative;
 					opacity: 0;
-	                        	@include animation(move-down ease-out 27s 20s infinite forwards);
+	                        	@include animation(down ease-out 27s 20s infinite forwards);
 	                	}
 	                }
 		}
