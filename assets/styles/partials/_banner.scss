@@ -9,9 +9,9 @@
 	font-family: Lato;
 	font-weight: 100;
 	font-size: 36px;
-	font-size: calc(2.25em + 25%);
+	font-size: calc(1.25em + 25%);
 	line-height: 44px;
-	line-height: calc(2.75em + 25%);
+	line-height: calc(1.75em + 25%);
 	color: $color-light;
 	overflow: hidden;
 	@include overlay($color-dark, 0.8);
