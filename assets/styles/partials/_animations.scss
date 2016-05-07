@@ -23,7 +23,7 @@
 @include keyframes(push) {
   0%{ opacity: 0; }
   11%{ opacity: 1; }
-  22%{ opacity: 1; transform: rotateX(180deg) }
+  22%{ opacity: 1; transform: rotate(180deg) }
   33%{ opacity: 0; }
   100%{ opacity: 0; }
 }
