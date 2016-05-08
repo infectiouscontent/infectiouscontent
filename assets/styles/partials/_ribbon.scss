@@ -35,6 +35,9 @@
 			line-height: 1.55em;
 			color: $color-light-alpha;
 		}
+		@media (min-width: $mq-small) {
+			font-size: 1.25em;
+		}
 	
 		p {
 			font-size: 0.75em;
