@@ -3,48 +3,54 @@
 -----------------------------------------------  */
 
 .section-ribbon {
-  padding: 2em;
-  background-color: $color-blue;
-  color: $color-light;
-  z-index: 1;
+	padding: 2em;
+	background-color: $color-blue;
+	color: $color-light;
+	z-index: 1;
+	
+	.ribbon-text {
+		position: relative;
+		margin: 1em 0;
+		padding: 1em 0;
+		font-family: Lato;
+		font-style: italic;
+		font-weight: 700;
+		font-size: 1.25em;
+		line-height: 1.6em;
+		z-index: 3;
+		
+		span {
+			font-size: 40px;
+			font-family: Lato;
+			font-style: italic;
+			font-weight: 200;
+		}
+	}
+	
+	.ribbon-text h2 {
+		font-size: 0.9em;
+		font-style: normal;
+		font-weight: 900;
+		text-transform: uppercase;
+		line-height: 1.3em;
+		color: $color-light;
+	}
+	
+	.ribbon-text p {
+		font-size: 0.75em;
+		font-style: normal;
+		font-weight: 100;
+		text-transform: uppercase;
+		line-height: 1.5em;
+		color: $color-light;
+	}
+	
+	.ribbon-text a {
+		text-decoration: none;
+		color: $color-grey;
+	}
+	
+	.ribbon-text img {
+		float: left;
+	}
 }
-
-.ribbon-text {
-  position: relative;
-  margin: 1em 0;
-  padding: 1em 0;
-  font-family: Lato;
-  font-style: italic;
-  font-weight: 700;
-  font-size: 1.25em;
-  line-height: 1.6em;
-  z-index: 3;
-}
-
-.ribbon-text h2 {
-  font-size: 0.9em;
-  font-style: normal;
-  font-weight: 900;
-  text-transform: uppercase;
-  line-height: 1.3em;
-  color: $color-light;
-}
-
-.ribbon-text p {
-  font-size: 0.75em;
-  font-style: normal;
-  font-weight: 100;
-  text-transform: uppercase;
-  line-height: 1.5em;
-  color: $color-light;
-}
-
-.ribbon-text a {
-  text-decoration: none;
-  color: $color-dark;
-}
-
-.ribbon-text img {
-  float: left;
-}
-
