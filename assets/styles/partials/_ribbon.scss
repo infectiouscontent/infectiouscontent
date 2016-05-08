@@ -20,11 +20,15 @@
 		z-index: 3;
 		
 		.ribbon-number {
-			font-size: 1.5em;
+			font-size: 1.9em;
 			font-family: Lato;
 			font-style: italic;
 			font-weight: 100;
 			text-alight: right;
+		}
+		@media (min-width: $mq-small) {
+			font-size: 1.55em;
+			line-height: 1.55em;
 		}
 
 		h2 {
@@ -36,7 +40,7 @@
 			color: $color-light-alpha;
 		}
 		@media (min-width: $mq-small) {
-			font-size: 1.75em;
+			font-size: 1.55em;
 			line-height: 1.55em;
 		}
 	
@@ -52,7 +56,7 @@
 	
 	a {
 		text-decoration: none;
-		color: $color-grey;
+		color: $color-light-alpha;
 	}
 	
 	img {
