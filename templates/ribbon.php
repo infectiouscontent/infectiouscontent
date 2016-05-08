@@ -8,7 +8,7 @@
 				</div>
 			</div>
 			<div class="col-md-3">
-				<div class="ribbon-text">
+				<div class="row ribbon-text">
 					<div class="col-xs-4 ribbon-number"><p><span>01/</span> </div>
 					<div class="col-xs-8"><p><a href="#"> Contribute financially </a></p> </div>
 				</div>
