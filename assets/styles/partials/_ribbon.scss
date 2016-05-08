@@ -46,12 +46,16 @@
 		}
 	
 		p {
-			font-size: 0.45em;
+			font-size: 0.55em;
 			font-style: normal;
 			font-weight: 100;
 			text-transform: uppercase;
 			line-height: 1.5em;
 			color: $color-light-alpha;
+		}
+		@media (min-width: $mq-small) {
+			font-size: 0.45em;
+			line-height: 1.5em;
 		}
 	}
 	
