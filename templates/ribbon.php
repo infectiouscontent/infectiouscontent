@@ -21,7 +21,7 @@
 			</div>
 			<div class="col-md-3">
 				<div class="row ribbon-text">
-					<div class="col-xs-4 ribbon-number">02/</div>
+					<div class="col-xs-4 ribbon-number">03/</div>
 					<div class="col-xs-8"><p><a href="#"> Cover journalistically </a></p>
 				</div>
 			</div>
