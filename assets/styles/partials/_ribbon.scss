@@ -28,7 +28,7 @@
 		}
 
 		h2 {
-			font-size: 2.55em;
+			font-size: 1.25em;
 			font-style: normal;
 			font-weight: 900;
 			text-transform: uppercase;
@@ -36,7 +36,8 @@
 			color: $color-light-alpha;
 		}
 		@media (min-width: $mq-small) {
-			font-size: 1.25em;
+			font-size: 1.75em;
+			line-height: 1.55em;
 		}
 	
 		p {
