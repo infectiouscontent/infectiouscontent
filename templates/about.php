@@ -17,21 +17,21 @@
 			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="developReveal"> 
-						<div class="develop"><div class="program"><p>Develop</p></div>
+						<div class="develop"><div class="program"><p>Develop</p></div></div>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="deliverReveal"> 
-						<div class="deliver"><div class="program"><p>Deliver</p></div>
+						<div class="deliver"><div class="program"><p>Deliver</p></div></div>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="sustainReveal"> 
-						<div class="sustain"><div class="program"><p>Sustain</p></div>
+						<div class="sustain"><div class="program"><p>Sustain</p></div></div>
 					</div>
 				</div>
 			</div>
