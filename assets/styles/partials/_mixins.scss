@@ -50,7 +50,7 @@
                 @include animation(fade-in ease-in-out 1s 1s both);
                 position: relative;
                 display: table;
-                background-image: url($bgImage);
+                background-image: $bgImage;
                 background-size: cover;
                 background-repeat: no-repeat;
                 background-position:    50%;
