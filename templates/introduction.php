@@ -2,24 +2,24 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-md-4 featured">
-				<div><h3>News</h3></div>
+				<div><h1>News</h1></div>
 				<div style="border: 1px #ff6600 solid; background-color: #ffffff; color: #000000;">
-					<h5>Press Releases</h5>
-					<h5>Media Coverage</h5>
+					<h3>Press Releases</h3>
+					<h3>Media Coverage</h3>
 				</div>
 			</div>
 			<div class="col-md-4 featured">
-				<div><h3>On the blog</h3></div>
+				<div><h1>On the blog</h1></div>
 				<div style="border: 1px #ff6600 solid; background-color: #ffffff; color: #000000;">
-					<h5>Vaccinology</h5>
-					<h5>Symposia</h5>
+					<h3>Vaccinology</h3>
+					<h3>Symposia</h3>
 				</div>
 			</div>
 			<div class="col-md-4 featured">
-				<div><h3>Announcements</h3></div>
+				<div><h1>Announcements</h1></div>
 				<div style="border: 1px #ff6600 solid; background-color: #ffffff; color: #000000;">
-					<h5>Institutional</h5>
-					<h5>Bids</h5>
+					<h3>Institutional</h3>
+					<h3>Bids</h3>
 				</div>
 			</div>
 		</div>
