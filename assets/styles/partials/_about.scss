@@ -34,15 +34,7 @@
                         color: $color-dark;
                 }
         }
-
-        .discover {
-		position: relative;
-                background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/finger-in-mouth-940x600px.jpg);
-	        background-size: cover;
-	        background-repeat: no-repeat;
-	        background-position:    50%;
-	}
-        .discover:after {
+        .program:after {
 	        content: '';
 	        position: absolute;
 	        top: 0;
@@ -53,7 +45,7 @@
                 background-image: linear-gradient(180deg,hsla(0,0%,100%,0) 0, $color-rose);
 	        z-index: 0;
         }
-        .discover:hover:after, .discover:focus:after {
+        .program:hover:after, .discover:focus:after {
                 background-color: $color-rose;
                 border: 1px solid $color-grey;
                 color: $color-grey;
@@ -61,6 +53,14 @@
                         @include animation(rubber-band ease-in-out 1s);
                 }
         }
+
+        .discover {
+		position: relative;
+                background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/finger-in-mouth-940x600px.jpg);
+	        background-size: cover;
+	        background-repeat: no-repeat;
+	        background-position:    50%;
+	}
 
 
         .develop {
