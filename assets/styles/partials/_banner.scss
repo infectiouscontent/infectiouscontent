@@ -158,7 +158,7 @@
                 border: 1px solid $color-orange;
                 color: $color-orange;
 		p {
-			@include animation(rubber-band ease-in-out 3s);
+			@include animation(rubber-band ease-in-out 1s);
 		}
 	}
 }
