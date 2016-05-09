@@ -46,7 +46,7 @@
 	}
 }
 
-@mixin programs($bgImage: https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/finger-in-mouth-940x600px.jpg, $overlayColor: $color-rose) {
+@mixin programs($bgImage: "https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/finger-in-mouth-940x600px.jpg", $overlayColor: $color-rose) {
                 @include animation(fade-in ease-in-out 1s 1s both);
                 position: relative;
                 display: table;
