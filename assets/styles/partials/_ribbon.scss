@@ -18,6 +18,10 @@
 		font-size: 1.55em;
 		line-height: 1.5em;
 		z-index: 3;
+		@media (min-width: $mq-small) {
+			font-size: 0.85em;
+			line-height: 1.5em;
+		}
 		
 		.ribbon-number {
 			font-size: 0.9em;
