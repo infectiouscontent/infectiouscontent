@@ -12,7 +12,7 @@
 	.row { margin: 2em 0 }
 	
         .discover {
-		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/finger-in-mouth-940x600px.jpg, $color-rose);
+		@include programs($color-dark, $color-rose);
         }
 	
         .develop {
