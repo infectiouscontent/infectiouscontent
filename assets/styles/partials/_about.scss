@@ -7,4 +7,36 @@
 	h1 { text-align: center; color: $color-blue; }
 	p { text-align: center; color: $color-grey; }
 	.row { margin: 2em 0 }
+	
+        .program {
+                @include animation(fade-in ease-in-out 1s 1s both);
+                position: relative;
+                display: table;
+                border: 1px solid $color-dark;
+                border-radius: 50px;
+                background-color: $color-yellow;
+                background-image: linear-gradient(180deg,#fff 0,hsla(0,0%,100%,0));
+                width: 100px;
+                height: 100px;
+                transition: ease-out 0.5s;
+                p {
+                        display: table-cell;
+                        position: relative;
+                        vertical-align: middle;
+                        font-family: Lato;
+                        font-weight: 900;
+                        font-size: 15px;
+                        text-align: center;
+                        color: $color-dark;
+                }
+        }
+        .program:hover {
+                background-color: white;
+                border: 1px solid $color-orange;
+                color: $color-orange;
+                p {
+                        @include animation(rubber-band ease-in-out 1s);
+                }
+        }
+
 }
