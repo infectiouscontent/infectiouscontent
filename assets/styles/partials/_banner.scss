@@ -132,7 +132,6 @@
 		}
 	}
 	.yellow-button {
-		z-index: 7;
 		@include animation(fade-in ease-in-out 1s 1s both);
 		position: relative;
 		display: table;
