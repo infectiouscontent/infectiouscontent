@@ -10,7 +10,7 @@
 			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="discoverReveal"> 
-						<div class="discover program"><p>Discover</p></div>
+						<div class="discover"><div class="program"><p>Discover</p></div></div>
 					</div>
 				</div>
 			</div>
