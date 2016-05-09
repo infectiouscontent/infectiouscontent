@@ -10,28 +10,28 @@
 			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="discoverReveal"> 
-						<div class="discover program">Discover</div>
+						<div class="discover program"><p>Discover</p></div>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="developReveal"> 
-						<div class="develop program">Develop</div>
+						<div class="develop program"><p>Develop</p></div>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="deliverReveal"> 
-						<div class="deliver program">Deliver</div>
+						<div class="deliver program"><p>Deliver</p></div>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="sustainReveal"> 
-						<div class="sustain program">Sustain</div>
+						<div class="sustain program"><p>Sustain</p></div>
 					</div>
 				</div>
 			</div>
