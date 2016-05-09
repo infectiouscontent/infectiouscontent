@@ -24,13 +24,18 @@
                 max-width: 960px;
                 min-height: 300px;
                 max-height: 600px;
-                color: $color-light;
-                font-family: Lato;
-                font-weight: 900;
-                font-size: 2em;
-                text-align: center;
-		text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
-		text-transform: uppercase;
+		p {
+                        display: table-cell;
+                        position: relative;
+                        vertical-align: middle;
+                        font-family: Lato;
+                        font-weight: 900;
+                        font-size: 2em;
+                        text-align: center;
+			text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+			text-transform: uppercase;
+                	color: $color-light;
+                 }
                 transition: ease-out 0.5s;
         }
 	.program:hover {
@@ -52,10 +57,6 @@
         .program:hover:after, .discover:focus:after {
                 background-color: rgba($color-rose,0.4);
         }
-
-        .discover {
-	}
-
 
         .develop {
 		position: relative;
