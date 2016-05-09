@@ -16,14 +16,14 @@
         }
 	
         .develop {
-		@include programs($program-2, $color-rose);
+		@include programs($program-2, $color-orange);
         }
 	
         .deliver {
-		@include programs($program-3, $color-rose);
+		@include programs($program-3, $color-blue);
         }
 	
         .sustain {
-		@include programs($program-4, $color-rose);
+		@include programs($program-4, $color-yellow);
         }
 }
