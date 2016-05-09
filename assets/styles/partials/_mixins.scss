@@ -74,7 +74,7 @@
                 transition: ease-out 0.5s;
         &:hover {
                 p {
-                        @include animation(rubber-band ease-in-out 1s);
+                        @include animation(fade-out ease-out 2s 0.5s);
                 }
         }
         &:after {
