@@ -5,4 +5,8 @@
 .section-introduction {
 	background-image: url("https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-header-blue-2000x1136.jpg");
 	background-attachment: fixed;
+	.featured {
+		background-color: #ff6600; 
+		padding: 50px 0;
+	}
 }
