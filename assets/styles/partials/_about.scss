@@ -16,11 +16,13 @@
                 position: relative;
                 display: table;
 		margin: 1em auto;
+		text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 		text-transform: uppercase;
                 border: 1px solid $color-dark;
-                background-color: $color-yellow;
-                background-image: linear-gradient(180deg,#fff 0,hsla(0,0%,100%,0));
                 width: 80%;
+                max-width: 960px;
+                min-height: 300px;
+                max-height: 600px;
                 transition: ease-out 0.5s;
                 p {
                         display: table-cell;
@@ -57,7 +59,8 @@
 	        height: 100%;
 	        width: 100%;
 	        background: rgba($color-light, 0.5);
-	        z-index: 8;
+                background-image: linear-gradient(180deg,#fff 0,hsla(0,0%,100%,0));
+	        z-index: 9;
         }
 
 
