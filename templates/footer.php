@@ -54,10 +54,18 @@
 	var logoReveal = { origin : 'left', distance : '25vw', duration : 2000, easing : 'ease-out' };
 	var titleReveal = { origin : 'top', duration : 1000, easing : 'ease-out' };
 	var aboutReveal = { origin : 'left', duration : 1500, easing : 'ease-out' };
+	var discoverReveal = { origin : 'right', duration : 1000, easing : 'ease-out' };
+	var developReveal = { origin : 'bottom', duration : 2000, easing : 'ease-out' };
+	var deliverReveal = { origin : 'left', duration : 3000, easing : 'ease-out' };
+	var sustainReveal = { origin : 'top', duration : 4000, easing : 'ease-out' };
 
       	sr.reveal('.logoReveal', logoReveal);
       	sr.reveal('.titleReveal', titleReveal);
       	sr.reveal('.aboutReveal', aboutReveal);
+      	sr.reveal('.discoverReveal', discoverReveal);
+      	sr.reveal('.developReveal', developReveal);
+      	sr.reveal('.deliverReveal', deliverReveal);
+      	sr.reveal('.sustainReveal', sustainReveal);
 </script>
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>

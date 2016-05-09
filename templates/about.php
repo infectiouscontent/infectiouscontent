@@ -9,8 +9,8 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="logoContainer">
-					<div class="logoReveal"> 
-						<img class="introduction-image" src="https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/cochin-q-circle-orangeicon-center-1000x1000px.png">
+					<div class="discoverReveal"> 
+						<img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/two-grills-940x600px.jpg">
 					</div>
 				</div>
 			</div>
