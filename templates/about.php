@@ -10,13 +10,30 @@
 			<div class="col-md-4">
 				<div class="logoContainer">
 					<div class="discoverReveal"> 
-						<img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/two-grills-940x600px.jpg">
+						<div class="discover">Discover</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-xs-12 col-md-6 introduction-title"><div class="titleReveal"><h1>handshaker</h1></div></div>
-			<div class="col-xs-12 col-md-6 introduction-line"><div class="colored-line"></div></div>
-			<div class="col-xs-12 col-md-6 introduction-text"><div class="aboutReveal">Handshaker is a Wordpress Theme created by Quilombola Engineering. 
+			<div class="col-md-4">
+				<div class="logoContainer">
+					<div class="developReveal"> 
+						<div class="develop">Develop</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="logoContainer">
+					<div class="deliverReveal"> 
+						<div class="deliver">Deliver</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="logoContainer">
+					<div class="sustainReveal"> 
+						<div class="dustain">Sustain</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
