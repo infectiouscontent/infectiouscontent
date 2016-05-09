@@ -21,7 +21,6 @@
                 background-color: $color-yellow;
                 background-image: linear-gradient(180deg,#fff 0,hsla(0,0%,100%,0));
                 width: 80%;
-                height: 80%;
                 transition: ease-out 0.5s;
                 p {
                         display: table-cell;
@@ -46,6 +45,7 @@
         .discover {
 		position: absolute;
                 background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/two-grills-940x600px.jpg);
+		z-index: -1;
 	}
 
         .develop {
