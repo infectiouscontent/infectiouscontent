@@ -139,6 +139,7 @@
                 border-radius: 50px;
                 background-color: $color-yellow;
 		background-image: linear-gradient(180deg,#fff 0,hsla(0,0%,100%,0));
+                margin: 1em auto;
                 width: 100px;
                 height: 100px;
                 transition: ease-out 0.5s;
@@ -157,6 +158,9 @@
                 background-color: white;
                 border: 1px solid $color-orange;
                 color: $color-orange;
+                background-color: $color-yellow;
+                border: 1px solid $color-dark;
+                color: $color-dark;
 		p {
 			@include animation(rubber-band ease-in-out 1s);
 		}
