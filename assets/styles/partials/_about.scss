@@ -17,7 +17,7 @@
                 display: table;
 		margin: 1em auto;
                 border: 1px solid $color-dark;
-                border-radius: 50px;
+                border-radius: 40%;
                 background-color: $color-yellow;
                 background-image: linear-gradient(180deg,#fff 0,hsla(0,0%,100%,0));
                 width: 80%;
@@ -28,15 +28,15 @@
                         vertical-align: middle;
                         font-family: Lato;
                         font-weight: 900;
-                        font-size: 15px;
+                        font-size: 15em;
                         text-align: center;
                         color: $color-dark;
                 }
         }
         .program:hover {
                 background-color: white;
-                border: 1px solid $color-orange;
-                color: $color-orange;
+                border: 1px solid $color-grey;
+                color: $color-grey;
                 p {
                         @include animation(rubber-band ease-in-out 1s);
                 }
