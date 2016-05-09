@@ -7,28 +7,28 @@
 			<p>Discover, develop, and deliver safe, effective and affordable vaccines for global public health.</p>
 		</div>
 		<div class="row">
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="discoverReveal"> 
 						<div class="discover">Discover</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="developReveal"> 
 						<div class="develop">Develop</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="deliverReveal"> 
 						<div class="deliver">Deliver</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div class="logoContainer">
 					<div class="sustainReveal"> 
 						<div class="dustain">Sustain</div>
