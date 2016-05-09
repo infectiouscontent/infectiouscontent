@@ -1,6 +1,6 @@
 <section id="about" class="section-about">
 	<!-- Organization's Executive Summary -->
-	<div class="container-fluid organization-summary">
+	<div class="container-fluid">
 		<!-- Mission Statement -->
 		<div class="row">
 			<h1>Our Mission</h1>
