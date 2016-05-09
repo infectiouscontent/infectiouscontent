@@ -12,18 +12,18 @@
 	.row { margin: 2em 0 }
 	
         .discover {
-		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/finger-in-mouth-940x600px.jpg, $color-rose)
+		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/finger-in-mouth-940x600px.jpg, $color-rose);
         }
 	
         .develop {
-		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/african-blue-940x600px.jpg, $color-rose)
+		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/african-blue-940x600px.jpg, $color-rose);
         }
 	
         .deliver {
-		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/two-grills-940x600px.jpg, $color-rose)
+		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/two-grills-940x600px.jpg, $color-rose);
         }
 	
         .sustain {
-		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/take-a-shot-940x600px.jpg, $color-rose)
+		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/take-a-shot-940x600px.jpg, $color-rose);
         }
 }
