@@ -70,26 +70,27 @@
                         text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
                         text-transform: uppercase;
                         color: $color-light;
+			opacity: 1;
                  }
-                transition: ease-out 0.5s;
-        &:hover {
-                p {
-                        @include animation(fade-out ease-out 1s 0.5s forwards);
-                }
-        }
-        &:after {
-                content: '';
-                position: absolute;
-                top: 0;
-                left: 0;
-                height: 100%;
-                width: 100%;
-                border: 1px solid $color-dark;
-                background-image: linear-gradient(180deg, rgba($overlayColor, 0.45) 0%, rgba($color-dark, 0.25) 50%, rgba($overlayColor, 0.45) 100%);
-                z-index: 0;
                 transition: ease-out 1.5s;
-        }
-        &:hover:after, &:focus:after {
-                background-color: rgba($overlayColor,0.25);
-        }
+	        &:hover {
+	                p {
+	                        opacity: 0;
+	                }
+	        }
+	        &:after {
+	                content: '';
+	                position: absolute;
+	                top: 0;
+	                left: 0;
+	                height: 100%;
+	                width: 100%;
+	                border: 1px solid $color-dark;
+	                background-image: linear-gradient(180deg, rgba($overlayColor, 0.45) 0%, rgba($overlayColor, 0) 50%, rgba($overlayColor, 0.45) 100%);
+	                z-index: 0;
+	                transition: ease-out 1.5s;
+	        }
+	        &:hover:after, &:focus:after {
+	                background-color: rgba($overlayColor,0.25);
+	        }
 }
