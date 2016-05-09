@@ -36,5 +36,10 @@
 				</div>
 			</div>
 		</div>
+		<!-- About Statement -->
+		<div class="row">
+			<p>The International Vaccine Institute (IVI) was established in 1997 as an initiative by the United Nations Development Programme (UNDP) as an independent, not-for-profit international organization mandated to improve the health of children in developing nations through vaccines and vaccination. </p>
+			<div class="clear-button">Learn More</div>
+		</div>
 	</div>
 </section>
