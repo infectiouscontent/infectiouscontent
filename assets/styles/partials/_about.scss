@@ -45,17 +45,19 @@
         .discover {
 		position: relative;
                 background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/two-grills-940x600px.jpg);
-		z-index: -1;
+	        background-size: cover;
+	        background-repeat: no-repeat;
+	        background-position:    50%;
 	}
         &:after{
-        content: '';
-        position: relative;
-        top: 0;
-        left: 0;
-        height: 100%;
-        width: 100%;
-        background: rgba($color-light, 0.5);
-        z-index: 0;
+	        content: '';
+	        position: relative;
+	        top: 0;
+	        left: 0;
+	        height: 100%;
+	        width: 100%;
+	        background: rgba($color-light, 0.5);
+	        z-index: 8;
         }
 
 
