@@ -16,6 +16,7 @@
                 position: relative;
                 display: table;
 		margin: 1em auto;
+		text-transform: uppercase;
                 border: 1px solid $color-dark;
                 background-color: $color-yellow;
                 background-image: linear-gradient(180deg,#fff 0,hsla(0,0%,100%,0));
@@ -48,7 +49,7 @@
 	}
         &:after{
         content: '';
-        position: absolute;
+        position: relative;
         top: 0;
         left: 0;
         height: 100%;
