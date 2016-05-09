@@ -15,14 +15,14 @@
 			</div>
 			<div class="col-md-3">
 				<div class="row ribbon-text">
-					<div class="col-xs-4 ribbon-number">02/</div>
-					<div class="col-xs-8"><p><a href="#"> Collaborate professionally </a></p> </div>
+					<div class="col-xs-3 col-xs-offset-3 col-md-4 ribbon-number">02/</div>
+					<div class="col-xs-6 col-md-8"><p><a href="#"> Collaborate professionally </a></p> </div>
 				</div>
 			</div>
 			<div class="col-md-3">
 				<div class="row ribbon-text">
-					<div class="col-xs-4 ribbon-number">03/</div>
-					<div class="col-xs-8"><p><a href="#"> Cover journalistically </a></p>
+					<div class="col-xs-3 col-xs-offset-3 col-md-4 ribbon-number">03/</div>
+					<div class="col-xs-6 col-md-8"><p><a href="#"> Cover journalistically </a></p>
 				</div>
 			</div>
 		</div>
