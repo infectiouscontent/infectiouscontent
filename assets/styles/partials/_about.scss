@@ -11,54 +11,19 @@
 
 	.row { margin: 2em 0 }
 	
-        .program {
-                @include animation(fade-in ease-in-out 1s 1s both);
-                position: relative;
-                display: table;
-                background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/finger-in-mouth-940x600px.jpg);
-	        background-size: cover;
-	        background-repeat: no-repeat;
-	        background-position:    50%;
-		margin: 1em auto;
-                width: 100%;
-                max-width: 960px;
-                min-height: 300px;
-                max-height: 600px;
-		p {
-                        display: table-cell;
-                        position: relative;
-                        vertical-align: middle;
-                        font-family: Lato;
-                        font-weight: 900;
-                        font-size: 2em;
-                        text-align: center;
-			text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
-			text-transform: uppercase;
-                	color: $color-light;
-                 }
-                transition: ease-out 0.5s;
-                .discover { background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/finger-in-mouth-940x600px.jpg); }
-	        .develop { background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/african-blue-940x600px.jpg); }
-	        .deliver { background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/two-grills-940x600px.jpg); }
-	        .sustain { background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/take-a-shot-940x600px.jpg); }
+        .discover {
+		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/finger-in-mouth-940x600px.jpg, $color-rose)
         }
-	.program:hover {
-                p {
-                        @include animation(rubber-band ease-in-out 1s);
-                }
-	}
-        .program:after {
-	        content: '';
-	        position: absolute;
-	        top: 0;
-	        left: 0;
-	        height: 100%;
-	        width: 100%;
-                border: 1px solid $color-dark;
-                background-image: linear-gradient(180deg,hsla(0,0%,100%,0) 0, rgba($color-rose, 0.5));
-	        z-index: 0;
+	
+        .develop {
+		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/african-blue-940x600px.jpg, $color-rose)
         }
-        .program:hover:after, .discover:focus:after {
-                background-color: rgba($color-rose,0.4);
+	
+        .deliver {
+		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/two-grills-940x600px.jpg, $color-rose)
+        }
+	
+        .sustain {
+		@include programs(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/take-a-shot-940x600px.jpg, $color-rose)
         }
 }
