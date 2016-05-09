@@ -44,18 +44,22 @@
 			line-height: 1.55em;
 			color: $color-light-alpha;
 			@media (min-width: $mq-small) {
-				font-size: 1.55em;
-				line-height: 1.55em;
+				font-size: 1.7em;
+				line-height: 1.85em;
 			}
 		}
 	
 		p {
-			font-size: 0.95em;
+			font-size: 0.45em;
 			font-style: italic;
 			font-weight: 100;
 			text-transform: uppercase;
 			line-height: 1.5em;
 			color: $color-light-alpha;
+			@media (min-width: $mq-small) {
+				font-size: 0.95em;
+				line-height: 1.5em;
+			}
 		}
 	}
 	
