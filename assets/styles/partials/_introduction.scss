@@ -10,5 +10,12 @@
 		margin: 25vh auto;
 		padding: 50px 0;
 		width: 80%;
+		text-align: center;
+		h2 {
+			text-color: $color-light;
+		}
+		h5 {
+			text-color: $color-grey;
+		}
 	}
 }
