@@ -53,11 +53,11 @@
 			}
 		}
 	 	li:nth-child(2) {
-			background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/geese-1903×400px.jpg);
+			background-image: url("https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/geese-1903×400px.jpg");
 			background-attachment: fixed;
 			@include animation-delay(18s);
 			@media (min-width: $mq-med) {
-				background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/geese-1903×400px.jpg);
+				background-image: url("https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/geese-1903×400px.jpg");
 			}
 		}
 		li:nth-child(3) {
