@@ -9,18 +9,23 @@
 		margin: 25vh auto;
 	}
 	.featured {
-		background-color: #ff6600; 
+		background-color: $color-yellow; 
 		padding: 50px 0;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
 		width: 100%;
 		margin: 0 auto;
-		h2 {
+		h2.featured {
 			font-size: font-size: calc(1.5em + 25%);
 			font-family: playfair display,georgia,times,serif;
 			text-color: $color-light;
 			margin: 2em 0;
+		}
+		.sections {
+			border: 1px $color-yellow solid;
+			background-color: $color-light; 
+			color: $color-grey;
 		}
 		h4 {
 			text-color: $color-grey;
