@@ -19,5 +19,6 @@
 				<img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/continents-1300x1300px.png">
 			</div>
 		</div>
+		<p>IVI is sponsored by the governments of Korea and Sweden, the Bill and Melinda Gates Foundation, the Korean Support Committee for IVI, and many others.</p>
 	</div>
 </section>
