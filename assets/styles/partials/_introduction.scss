@@ -5,15 +5,20 @@
 .section-introduction {
 	background-image: url("https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-header-blue-2000x1136.jpg");
 	background-attachment: fixed;
+	.row {
+		margin: 25vh auto;
+	}
 	.featured {
 		background-color: #ff6600; 
-		margin: 25vh auto;
 		padding: 50px 0;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
 		width: 100%;
+		margin: 0 auto;
 		h1 {
+			font-size: font-size: calc(1.5em + 25%);
+			font-family: playfair display,georgia,times,serif;
 			text-color: $color-light;
 			margin: 2em 0;
 		}
