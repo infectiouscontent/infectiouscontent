@@ -4,14 +4,14 @@
 
 .sponsors {
 	padding: 4em 2em;
-	border-top: 2px solid $color-orange;
-	background-color: $color-yellow;
-	color: $color-dark;
+	background-color: $color-light;
+	color: $color-grey;
 	text-align: center;
 	
 	img {
 		margin: 1em auto;
 		width: 80%
+		max-width: 200px;
 	}
 	
 	img:hover {
@@ -19,7 +19,7 @@
 	}
 
 	h1 {
-		color: $color-dark;
+		color: $color-blue;
 	}
 }
 
