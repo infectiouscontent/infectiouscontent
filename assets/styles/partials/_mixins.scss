@@ -71,8 +71,8 @@
                         text-transform: uppercase;
                         color: $color-light;
 			opacity: 1;
-                 }
-                transition: ease-out 1.5s;
+                	transition: ease-out 1.5s;
+                }
 	        &:hover {
 	                p {
 	                        opacity: 0;
