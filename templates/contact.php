@@ -1,8 +1,11 @@
 <section id="artists" class="section-artists">
         <!-- slider animation -->
         <ul class="horizontal-slider">
-                <li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/tOKExWV5NSI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></li>
-                <li>
+                <li></li>
+                <li></li>
+                <li></li>
+        </ul>
+        <div class="contributor-overlay">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="title">
@@ -32,6 +35,5 @@
 				</div>
 			</div>
 		</div>
-                </li>
-        </ul>
+        </div>
 </section>

@@ -40,11 +40,7 @@ use Roots\Sage\Wrapper;
     ?>
     <?php
       do_action('get_header');
-      get_template_part('templates/artists');
-    ?>
-    <?php
-      do_action('get_header');
-      get_template_part('templates/portfolios');
+      get_template_part('templates/contact');
     ?>
     <?php
       do_action('get_footer');
