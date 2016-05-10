@@ -1,4 +1,4 @@
-<section id="artists" class="section-artists">
+<section id="contact" class="section-contact">
         <!-- slider animation -->
         <ul class="horizontal-slider">
                 <li></li>
