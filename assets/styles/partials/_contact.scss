@@ -5,8 +5,6 @@
 .section-contact {
 	position: relative;
 	display: table;
-	border-top: 2px solid $color-orange;
-	border-bottom: 2px solid $color-orange;
 	width: 100%;
 	margin: 0 auto;
 	text-align: center;
@@ -55,19 +53,19 @@
 			}
 		}
 	 	li:nth-child(2) {
-			background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/trapped-800x1200px.jpeg);
+			background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/geese-1903×400px.jpg);
 			background-attachment: fixed;
 			@include animation-delay(18s);
 			@media (min-width: $mq-med) {
-				background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/mossheads-2000x1350px.jpeg);
+				background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/geese-1903×400px.jpg);
 			}
 		}
 		li:nth-child(3) {
-			background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/whitesquare-800x1200px.jpeg);
+			background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/kidvaccine-1333x1333px.jpg);
 			background-attachment: fixed;
 			@include animation-delay(9s);
 			@media (min-width: $mq-med) {
-				background-image: url(https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/flowersquare-2000x1350px.jpeg);
+				background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/kidvaccine-1333x1333px.jpg);
 			}
 		}
 	}
