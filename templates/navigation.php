@@ -11,8 +11,8 @@
             <ul>
                 <li><a href="#about" style="text-decoration: none;"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span> About</a></li>
                 <li><a href="#introduction" style="text-decoration: none;"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Introduction</a></li>
-                <li><a href="#artists" style="text-decoration: none;"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Artists</a></li>
-                <li><a href="#portfolios" style="text-decoration: none;"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Portfolios</a></li>
+                <li><a href="#introduction" style="text-decoration: none;"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Programs</a></li>
+                <li><a href="#contact" style="text-decoration: none;"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Contact</a></li>
             </ul>
         </nav>
     </div> <!-- end row -->
