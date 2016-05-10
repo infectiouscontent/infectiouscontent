@@ -1,7 +1,7 @@
 <section id="artists" class="section-artists">
         <!-- slider animation -->
         <ul class="horizontal-slider">
-                <li><iframe width="100vw" height="100vh" src="https://www.youtube.com/embed/tOKExWV5NSI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></li>
+                <li><iframe width="100%" height="100%" src="https://www.youtube.com/embed/tOKExWV5NSI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></li>
                 <li>
 		<div class="container-fluid">
 			<div class="row">
