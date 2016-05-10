@@ -21,7 +21,7 @@
 		<div class="centering">
 			<div class="statement">
                 		<div class="left">
-					<p> We <span style="font-weight: 900;">collaborate globally</span> to fight <span style="font-weight: 900;">infectious disease</span>. </p>
+					<p> We <span style="font-weight: 900;">partner</span> globally to fight <span style="font-weight: 900;">infectious disease</span>. </p>
 				</div>
                 		<div class="right">
 					<div class="yellow-button"> <p> help us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div>
