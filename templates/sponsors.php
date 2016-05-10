@@ -10,7 +10,7 @@
 				<img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/gatesfoundation-white-2100x2100.png">
 			</div>
 			<div class="col-md-2"> 
-				<img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/korean-flag-alpha.png">
+				<img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/korean-flag-2000x2000px.png">
 			</div>
 			<div class="col-md-2"> 
 				<img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ksc-ivi.png">
