@@ -12,11 +12,20 @@
 					<h1>Contact Us</h1>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 				</div>
-					<a href="#ribbon"><img class="scroll-down" src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/korean-flag-2000x2000px.png" /></a>
-					<h1>IVI</h1>
-					<p>International Vaccine Institute</p>
-					<p class="contributor-intro">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-					<div class="yellow-button">More Info</div>
+				<a href="#ribbon"><img class="scroll-down" src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-icon-1450x1450px.png" /></a>
+				<h1>IVI</h1>
+				<p>International Vaccine Institute</p>
+				<p class="address">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+				<div class="connect">
+		                	<h2>Connect</h2>
+			                <p class="about-text">Learn more about Handshaker and Quilombola Engineering:</p>
+					<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-link"></span></div>
+					<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-search"></span></div>
+					<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-user"></span></div>
+					<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-phone"></span></div>
+					<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-fire"></span></div>
+					<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-envelope"></span></div>
+				</div>
 			</div>
 		</div>
         </div>

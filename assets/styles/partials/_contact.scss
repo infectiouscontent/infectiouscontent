@@ -34,7 +34,8 @@
 	img {
 		transition: border ease-out 2s forwards;
 		width: 78px;
-		border: 1px solid white;
+		background-color: $color-light;
+		border: 1px solid $color-yellow;
 		border-radius: 40px;
 	}
 	img:hover {
@@ -74,7 +75,7 @@
 		margin: 0 2em;
 		padding: 2em;
 	}
-	.contributor-intro {
+	.connect {
 		color: $color-light;
 		padding: 0 1em;
 	}
