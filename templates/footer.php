@@ -7,45 +7,42 @@
 	</ul>
 	<div class="v-center">
 	        <div class="col-md-3">
-	                <h2>What We Do</h2>
-	                <p>Our Mission</p>
-	                <p>Get Involved</p>
-	                <p>Events</p>
-	                <p>Portfolio</p>
-	                <p>Blog</p>
+	                <h2>ABOUT IVI</h2>
+	                <p><a href="index.php/ivi-in-brief/">IVI In Brief</a></p>
+	                <p><a href="index.php/history/">History</a></p>
+	                <p><a href="index.php/our-approach/">Our Approach</a></p>
+	                <p><a href="index.php/board-of-trustees/">Leadership</a></p>
 	        </div>
 	        <div class="col-md-3">
-	                <h2>Who We Are</h2>
-	                <p>Our Team</p>
-	                <p>Partners</p>
-	                <p>Press</p>
-	                <p>Contact</p>
-	                <p>FAQ</p>
+	                <h2>WHAT WE DO</h2>
+	                <p><a href="index.php/our-research/">Our Research</a></p>
+	                <p><a href="index.php/discovery/">Discovery</a></p>
+	                <p><a href="index.php/development/">Development</a></p>
+	                <p><a href="index.php/delivery/">Delivery</a></p>
+	                <p><a href="index.php/capacity-building/">Capacity Building</a></p>
+	                <p><a href="index.php/cholera/">Our Programs</a></p>
 	        </div>
 	        <div class="col-md-3">
-	                <h2>About Us</h2>
-	                <p class="about-text">This theme was designed to showcase art portfolios for a team of artists living in Shenzhen, China. For best results, use only high resolution images.</p>
-	                <p class="about-text">Contact Quilombola Engineering you need any help to implement this or any other Wordpress theme.</p>
+	                <h2>VACCINE RESOURCES</h2>
+	                <p><a href="index.php/why-vaccines/">Why Vaccines?</a></p>
+	                <p><a href="index.php/vaccinology-course/">IVI’s International Advanced Vaccinology Course</a></p>
+	                <p><a>Institutional Review Board</a></p>
+	                <p><a href="index.php/links/">Links</a></p>
 	        </div>
 	        <div class="col-md-3">
-                	<h2>Links</h2>
-	                <p class="about-text">Learn more about Handshaker and Quilombola Engineering:</p>
-			<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-link"></span></div>
-			<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-search"></span></div>
-			<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-user"></span></div>
-			<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-phone"></span></div>
-			<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-fire"></span></div>
-			<div onmousedown="sploob()" class="col-xs-2"><span class="glyphicon glyphicon-envelope"></span></div>
-	                <h2>Handshaker</h2>
-	                <p class="about-text">Handshaker is a Wordpress Theme created by <a href="http://www.quilombolaengineering.com">Quilombola Engineering</a>. </p>
+                	<h2>OUR IMPACT</h2>
+	                <p><a href="index.php/non-scientific-publications/">Journal Publications</a></p>
+	                <p><a href="index.php/annual-report-newsletters-2/">Annual Report &amp; Newsletters</a></p>
+	                <p><a href="index.php/journal-publications/">IVI Publications</a></p>
+	                <p><a href="index.php/multimedia/">Multimedia</a></p>
         	</div>
 	</div>
 </section>
 
 <script type="text/javascript">
-        function pop(){ var audio = new Audio('https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/pop.mp3'); audio.play(); }
-        function tick(){ var audio = new Audio('https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/tick.mp3'); audio.play(); }
-        function sploob(){ var audio = new Audio('https://s3.ap-northeast-2.amazonaws.com/handshaker-theme/sploob.m4a'); audio.play(); }
+        function pop(){ var audio = new Audio('https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/pop.mp3'); audio.play(); }
+        function tick(){ var audio = new Audio('https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/tick.mp3'); audio.play(); }
+        function sploob(){ var audio = new Audio('https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/sploob.m4a'); audio.play(); }
 </script>
 
 <script>
