@@ -19,7 +19,7 @@
 	line-height: calc(1.75em + 25%);
 	color: $color-grey;
 	overflow: hidden;
-	@include overlay($color-light, 0.5);
+	@include overlay($color-light, 0.8);
 	@media (min-width: $mq-small) {
 		font-size: 36px;
 		font-size: calc(2.75em + 25%);
@@ -106,28 +106,28 @@
 		}
 	}
  	ul.keyframe-slider {
-                li {
-                        @include bg-abs;
+		li {
+			@include bg-abs;
 			background-attachment: fixed;
-                        opacity: 0;
-                        @include animation(fade-out 27s infinite both);
-                        background-image: $vaccination-p;
-                        @media (min-width: $mq-med) {
-                                background-image: $vaccination-l;
-                        }
-                }
-	 	li:nth-child(2) {
-			background-image: $watchers-p;
-			@include animation-delay(9s);
+			opacity: 0;
+			@include animation(fade-out 27s infinite both);
+			background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/flowers-800x1200px.png);
 			@media (min-width: $mq-med) {
-				background-image: $watchers-l;
+				background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/flowers-1480x900px.jpg);
+			}
+		}
+	 	li:nth-child(2) {
+			background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ball-800x1200px.png);
+			@include animation-delay(18s);
+			@media (min-width: $mq-med) {
+				background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ball-1480x900px.jpg);
 			}
 		}
 		li:nth-child(3) {
-			@include animation-delay(3s);
-                        background-image: $office-p;
-                        @media (min-width: $mq-med) {
-                                background-image: $office-l;
+			background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/water-800x1200px.png);
+			@include animation-delay(9s);
+			@media (min-width: $mq-med) {
+				background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/water-1480x900px.jpg);
 			}
 		}
 	}
