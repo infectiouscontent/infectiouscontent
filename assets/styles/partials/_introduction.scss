@@ -16,20 +16,20 @@
 		text-transform: uppercase;
 		width: 100%;
 		margin: 0 auto;
-		.featured h2 {
+	}
+		h2 {
 			font-size: font-size: calc(1.5em + 25%);
 			font-family: playfair display,georgia,times,serif;
 			text-color: $color-light;
 			margin: 2em 0;
 		}
-		.featured .sections {
+		.sections {
 			border: 1px $color-yellow solid;
 			background-color: $color-light; 
 			color: $color-grey;
 		}
-		.featured h4 {
+		h4 {
 			text-color: $color-grey;
 			margin: 1em 0;
 		}
-	}
 }
