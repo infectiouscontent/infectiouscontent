@@ -9,10 +9,13 @@
         </div>
         <nav>
             <ul>
-                <li><a href="#about" style="text-decoration: none;"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span> About</a></li>
-                <li><a href="#introduction" style="text-decoration: none;"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Introduction</a></li>
-                <li><a href="#introduction" style="text-decoration: none;"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Programs</a></li>
-                <li><a href="#contact" style="text-decoration: none;"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Contact</a></li>
+                <li><a href="#" style="text-decoration: none;"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span> Jobs</a></li>
+                <li><a href="#" style="text-decoration: none;"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> News</a></li>
+                <li><a href="#" style="text-decoration: none;"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Contact Us</a></li>
+                <li><a href="#" style="text-decoration: none;"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span> Support IVI</a></li>
+                <li><a href="#contact" style="text-decoration: none;"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Sitemap</a></li>
+                <li><a href="#" style="text-decoration: none;"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Korean</a></li>
+                <li><?php get_search_form(); ?> </li>
             </ul>
         </nav>
     </div> <!-- end row -->
