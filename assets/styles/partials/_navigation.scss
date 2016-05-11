@@ -148,7 +148,7 @@
 	-moz-transition: all 200ms ease-in;
 	transition: all 200ms ease-in;
 }
-@media only screen and (max-width: 766px) {
+@media only screen and (max-width: $mq-med) {
 	.mobile-toggle {
 		display: block;
 	}
