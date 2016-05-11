@@ -1,7 +1,7 @@
 <section id="introduction" class="section-introduction">
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-md-4">
+			<div class="col-sm-4">
 				<div class="featured">
 					<h2>News</h2>
 					<div class="sections">
@@ -10,7 +10,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-sm-4">
 				<div class="featured">
 					<h2>On the blog</h2>
 					<div class="sections">
@@ -19,7 +19,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-sm-4">
 				<div class="featured">
 					<h2>Announcements</h2>
 					<div class="sections">
