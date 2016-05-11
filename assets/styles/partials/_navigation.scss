@@ -59,7 +59,7 @@
 		display: table-cell;
 		vertical-align: middle;
 	}
-	@media only screen and (max-width: 766px) {
+	@media only screen and (max-width: $mq-med) {
 	  	.logo {
 	    		width: 50%;
 	  	}
@@ -72,7 +72,7 @@
 		float: right;
 		color: $color-light;
 	}
-	@media only screen and (max-width: 766px) {
+	@media only screen and (max-width: $mq-med) {
 	  nav {
 	    width: 100%;
 	  }
@@ -83,7 +83,7 @@
 	  text-align: right;
 	  float: right;
 	}
-	@media only screen and (max-width: 766px) {
+	@media only screen and (max-width: $mq-med) {
 	  nav ul {
 	    padding-top: 30px;
 	    margin-bottom: 22px;
@@ -97,7 +97,7 @@
 	  margin: 0 5px;
 	  line-height: 1.5;
 	}
-	@media only screen and (max-width: 766px) {
+	@media only screen and (max-width: $mq-med) {
 	  nav ul li {
 	    width: 100%;
 	    padding: 7px 0;
@@ -115,7 +115,7 @@
 		@include animation(rubber-band ease-in-out 1s);
 	}
 }
-@media only screen and (max-width: 766px) {
+@media only screen and (max-width: $mq-med) {
   	.section-navigation {
     		padding-top: 25px;
   	}
