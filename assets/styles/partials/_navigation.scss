@@ -58,6 +58,7 @@
 		position: relative;
 		display: table-cell;
 		vertical-align: middle;
+		top: -5px;
 	}
 	@media only screen and (max-width: $mq-med) {
 	  	.logo {
@@ -95,7 +96,7 @@
 	nav ul li {
 	  display: inline-block;
 	  margin: 0 5px;
-	  line-height: 1.5;
+	  line-height: 1.9;
 	}
 	@media only screen and (max-width: $mq-med) {
 	  nav ul li {
