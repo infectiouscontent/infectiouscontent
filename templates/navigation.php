@@ -12,7 +12,7 @@
                 <li><a href="#" style="text-decoration: none;"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span> Support IVI</a></li>
                 <li><a href="#contact" style="text-decoration: none;"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Sitemap</a></li>
                 <li><a href="#" style="text-decoration: none;"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Korean</a></li>
-                <li><?php get_search_form(); ?></li>
+                <li><div class="search-form"><?php get_search_form(); ?></div></li>
             </ul>
         </nav>
         <div class="mobile-toggle">
