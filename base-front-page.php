@@ -40,6 +40,10 @@ use Roots\Sage\Wrapper;
     ?>
     <?php
       do_action('get_header');
+      get_template_part('templates/call-to-action');
+    ?>
+    <?php
+      do_action('get_header');
       get_template_part('templates/contact');
     ?>
     <?php

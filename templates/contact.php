@@ -1,11 +1,4 @@
 <section id="contact" class="section-contact">
-        <!-- slider animation -->
-        <ul class="horizontal-slider">
-                <li></li>
-                <li></li>
-                <li></li>
-        </ul>
-        <div class="contributor-overlay">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="title">
@@ -28,5 +21,4 @@
 				</div>
 			</div>
 		</div>
-        </div>
 </section>
