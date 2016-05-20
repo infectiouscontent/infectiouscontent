@@ -23,6 +23,9 @@
 				<p>Please send your contribution via PayPal</p>
 				</div>
 			</div>
+			<div class="row">
+
+			</div>
 		</div>
         </div>
 </section>

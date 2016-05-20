@@ -31,16 +31,8 @@
 		font-size: 90%;
 		@include animation(fade-in ease-in-out 2s 1s both);
 	}
-	img {
-		transition: border ease-out 2s forwards;
-		width: 78px;
-		background-color: $color-light;
-		border: 1px solid $color-yellow;
-		border-radius: 40px;
-	}
-	img:hover {
+	form:hover {
                 @include animation(tada ease-in 3s);
-		border: 1px solid $color-orange;
 	}
  	ul.horizontal-slider {
 		list-style-type: none;
