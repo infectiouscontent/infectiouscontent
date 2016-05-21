@@ -8,32 +8,32 @@
 	<div class="v-center">
 	        <div class="col-md-3">
 	                <h2>ABOUT IVI</h2>
-	                <p><a href="index.php/ivi-in-brief/">IVI In Brief</a></p>
-	                <p><a href="index.php/history/">History</a></p>
-	                <p><a href="index.php/our-approach/">Our Approach</a></p>
-	                <p><a href="index.php/board-of-trustees/">Leadership</a></p>
+	                <p><a href="ivi-in-brief/">IVI In Brief</a></p>
+	                <p><a href="history/">History</a></p>
+	                <p><a href="our-approach/">Our Approach</a></p>
+	                <p><a href="board-of-trustees/">Leadership</a></p>
 	        </div>
 	        <div class="col-md-3">
 	                <h2>FOCUS AREAS</h2>
-	                <p><a href="index.php/our-research/">Cholera</a></p>
-	                <p><a href="index.php/discovery/">Enteric Fever</a></p>
-	                <p><a href="index.php/development/">Dengue</a></p>
-	                <p><a href="index.php/delivery/">MERS</a></p>
-	                <p><a href="index.php/capacity-building/">Other Research Areas</a></p>
+	                <p><a href="our-research/">Cholera</a></p>
+	                <p><a href="discovery/">Enteric Fever</a></p>
+	                <p><a href="development/">Dengue</a></p>
+	                <p><a href="delivery/">MERS</a></p>
+	                <p><a href="capacity-building/">Other Research Areas</a></p>
 	        </div>
 	        <div class="col-md-3">
 	                <h2>VACCINE RESOURCES</h2>
-	                <p><a href="index.php/why-vaccines/">Why Vaccines?</a></p>
-	                <p><a href="index.php/vaccinology-course/">IVI’s International Advanced Vaccinology Course</a></p>
+	                <p><a href="why-vaccines/">Why Vaccines?</a></p>
+	                <p><a href="vaccinology-course/">IVI’s International Advanced Vaccinology Course</a></p>
 	                <p><a>Institutional Review Board</a></p>
-	                <p><a href="index.php/links/">Links</a></p>
+	                <p><a href="links/">Links</a></p>
 	        </div>
 	        <div class="col-md-3">
                 	<h2>OUR IMPACT</h2>
-	                <p><a href="index.php/non-scientific-publications/">Journal Publications</a></p>
-	                <p><a href="index.php/annual-report-newsletters-2/">Annual Report &amp; Newsletters</a></p>
-	                <p><a href="index.php/journal-publications/">IVI Publications</a></p>
-	                <p><a href="index.php/multimedia/">Multimedia</a></p>
+	                <p><a href="non-scientific-publications/">Journal Publications</a></p>
+	                <p><a href="annual-report-newsletters-2/">Annual Report &amp; Newsletters</a></p>
+	                <p><a href="journal-publications/">IVI Publications</a></p>
+	                <p><a href="multimedia/">Multimedia</a></p>
         	</div>
 	</div>
 </section>
