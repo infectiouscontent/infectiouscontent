@@ -16,6 +16,10 @@ use Roots\Sage\Wrapper;
     <![endif]-->
     <?php
       do_action('get_header');
+      get_template_part('templates/header');
+    ?>
+    <?php
+      do_action('get_header');
       get_template_part('templates/navigation');
     ?>
     <div class="wrap fluid-container" role="document">
