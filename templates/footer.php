@@ -14,13 +14,12 @@
 	                <p><a href="index.php/board-of-trustees/">Leadership</a></p>
 	        </div>
 	        <div class="col-md-3">
-	                <h2>WHAT WE DO</h2>
-	                <p><a href="index.php/our-research/">Our Research</a></p>
-	                <p><a href="index.php/discovery/">Discovery</a></p>
-	                <p><a href="index.php/development/">Development</a></p>
-	                <p><a href="index.php/delivery/">Delivery</a></p>
-	                <p><a href="index.php/capacity-building/">Capacity Building</a></p>
-	                <p><a href="index.php/cholera/">Our Programs</a></p>
+	                <h2>FOCUS AREAS</h2>
+	                <p><a href="index.php/our-research/">Cholera</a></p>
+	                <p><a href="index.php/discovery/">Enteric Fever</a></p>
+	                <p><a href="index.php/development/">Dengue</a></p>
+	                <p><a href="index.php/delivery/">MERS</a></p>
+	                <p><a href="index.php/capacity-building/">Other Research Areas</a></p>
 	        </div>
 	        <div class="col-md-3">
 	                <h2>VACCINE RESOURCES</h2>
