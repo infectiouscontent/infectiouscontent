@@ -27,17 +27,6 @@ use Roots\Sage\Wrapper;
         <main class="main">
           <?php include Wrapper\template_path(); ?>
         </main><!-- /.main -->
-
-	<!--// (combined html and php single line comment)
-	/*
-        <?php if (Setup\display_sidebar()) : ?>
-          <aside class="sidebar">
-            <?php include Wrapper\sidebar_path(); ?>
-          </aside><!-- /.sidebar -->
-        <?php endif; ?>
-	*/ (closing multiple line php comment)
-	//-->
-
       </div><!-- /.content -->
     </div><!-- /.wrap -->
     <?php
