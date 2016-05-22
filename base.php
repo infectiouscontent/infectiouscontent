@@ -22,7 +22,7 @@ use Roots\Sage\Wrapper;
       do_action('get_header');
       get_template_part('templates/navigation');
     ?>
-    <div class="fluid-container" role="document">
+    <div class="container-fluid" role="document">
       <div class="content row">
         <main class="main">
           <?php include Wrapper\template_path(); ?>
