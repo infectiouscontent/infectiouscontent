@@ -1,6 +1,7 @@
 <header class="header">
   <div class="container">
-    <a class="brand" href="<?= esc_url(home_url('/')); ?>"><?php bloginfo('name'); ?></a>
+	<div class="row"> <img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-whitelogo-2400x600px.png"> </div>
+	<div class="row"> <a class="brand" href="<?= esc_url(home_url('/')); ?>"><?php bloginfo('description'); ?></a> </div>
     <nav class="nav-primary">
       <?php
       if (has_nav_menu('primary_navigation')) :
