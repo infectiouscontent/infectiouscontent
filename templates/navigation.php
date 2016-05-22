@@ -2,7 +2,7 @@
     <div class="container-fluid">
     	<div class="row">
 		<div class="col-xs-4 col-sm-3 col-md-2">
-	        	<a class="logo" href="/ style="text-decoration: none;"><img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-whitelogo-2400x600px.png"></a>
+	        	<a class="logo" href="/" style="text-decoration: none;"><img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-whitelogo-2400x600px.png"></a>
 		</div>
 		<div class="col-xs-8 col-sm-9 col-md-10">
 	        	<nav>
