@@ -1,39 +1,9 @@
 /*----------------------------------------------
---Introduction
+--Page Styling
 -----------------------------------------------  */
 
-.section-introduction {
-	background-image: url("https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-header-blue-2000x1136.jpg");
-	background-attachment: fixed;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position:    50%;
-
-	.row {
-		margin: 25vh auto;
-		.featured {
-			background-color: $color-orange; 
-			padding: 3em 0;
-			text-align: center;
-			text-decoration: none;
-			text-transform: uppercase;
-			width: 100%;
-			margin: 1em auto;
-			h2 {
-				font-size: calc(1.0em + 50%);
-				font-family: playfair display,georgia,times,serif;
-				color: $color-light;
-				margin: 1em 0;
-			}
-			.sections {
-				border: 1px $color-orange solid;
-				background-color: $color-light; 
-				color: $color-grey;
-				h4 {
-					color: $color-grey;
-					margin: 1em 0;
-				}
-			}
-		}
-	}
+.page-header {
+	padding: 0;
+	margin: 0;
+	border: none;
 }
