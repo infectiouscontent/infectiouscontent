@@ -60,9 +60,14 @@
 		vertical-align: middle;
 	    	max-width: 200px;
 	}
-	@media only screen and (max-width: $mq-med) {
+	@media only screen and (max-width: $mq-small) {
 	  	.logo {
 	    		width: 50%;
+	  	}
+	}
+	@media only screen and (max-width: $mq-med) {
+	  	.logo {
+	    		width: 25%;
 	  	}
 	}
 	
