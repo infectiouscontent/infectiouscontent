@@ -59,11 +59,11 @@
 		display: table-cell;
 		vertical-align: middle;
 		top: -5px;
+	    	max-width: 200px;
 	}
 	@media only screen and (max-width: $mq-med) {
 	  	.logo {
 	    		width: 50%;
-	    		max-width: 200px;
 	  	}
 	}
 	
