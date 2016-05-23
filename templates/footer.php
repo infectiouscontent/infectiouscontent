@@ -54,11 +54,11 @@
 	var developReveal = { origin : 'bottom', duration : 2000, easing : 'ease-out' };
 	var deliverReveal = { origin : 'left', duration : 3000, easing : 'ease-out' };
 	var sustainReveal = { origin : 'top', duration : 4000, easing : 'ease-out' };
-	var rightReveal = { origin : 'right', duration : 2000, easing : 'ease-out' };
+	var rightReveal = { origin : 'right', duration : 1000, easing : 'ease-out' };
 	var bottomReveal = { origin : 'bottom', duration : 2000, easing : 'ease-out' };
-	var leftReveal = { origin : 'left', duration : 2000, easing : 'ease-out' };
-	var topReveal = { origin : 'top', duration : 2000, easing : 'ease-out' };
-	var upReveal = {  direction: 'up', power: '5%', duration : 2000, easing : 'ease-out' };
+	var leftReveal = { origin : 'left', duration : 3000, easing : 'ease-out' };
+	var topReveal = { origin : 'top', duration : 4000, easing : 'ease-out' };
+	var upReveal = {  direction: 'up', power: '5%', duration : 1000, easing : 'ease-out' };
 	var downReveal = {  direction: 'down', power: '5%', duration : 2000, easing : 'ease-out' };
 
       	sr.reveal('.logoReveal', logoReveal);
