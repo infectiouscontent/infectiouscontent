@@ -153,6 +153,10 @@
 			line-height: 44px;
                 	text-align: center;
                 	color: $color-dark;
+			.clickable {
+				position: absolute;
+				z-index: 10;
+			}
 		}
 	}
 	.yellow-button:after {
@@ -160,9 +164,6 @@
 		background-image: linear-gradient(180deg,#fff 0,hsla(0,0%,100%,0));
 	}
 	.yellow-button:hover {
-                background-color: $color-yellow;
-                border: 1px solid $color-dark;
-                color: $color-dark;
 		p {
 			@include animation(rubber-band ease-in-out 1s);
 		}
