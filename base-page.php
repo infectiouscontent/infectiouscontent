@@ -25,7 +25,7 @@ use Roots\Sage\Wrapper;
     <div class="container-fluid" role="document">
       <div class="content row">
         <main class="main">
-          <?php include Wrapper\template_path(); ?>
+          <div class="col-lg-6 col-lg-offset-3"> <?php include Wrapper\template_path(); ?> </div>
         </main><!-- /.main -->
       </div><!-- /.content -->
     </div><!-- /.wrap -->
