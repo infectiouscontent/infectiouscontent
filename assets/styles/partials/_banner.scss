@@ -135,9 +135,10 @@
 		@include animation(fade-in ease-in-out 1s 1s both);
 		position: relative;
 		display: table;
+		overflow: hidden;
                 border: 1px solid $color-dark;
                 border-radius: 50px;
-		background-image: linear-gradient(180deg,$color-yellow 0,hsla(0,0%,100%,0));
+                background-color: $color-yellow;
                 margin: 1em auto;
                 width: 100px;
                 height: 100px;
@@ -153,6 +154,10 @@
                 	text-align: center;
                 	color: $color-dark;
 		}
+	}
+	.yellow-button:after {
+		content: "";
+		background-image: linear-gradient(180deg,#fff 0,hsla(0,0%,100%,0));
 	}
 	.yellow-button:hover {
                 background-color: $color-yellow;
