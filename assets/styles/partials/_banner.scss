@@ -135,6 +135,7 @@
 		@include animation(fade-in ease-in-out 1s 1s both);
 		position: relative;
 		display: table;
+		overflow: hidden;
                 border: 1px solid $color-dark;
                 border-radius: 50px;
                 background-color: $color-yellow;
