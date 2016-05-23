@@ -15,17 +15,17 @@
 	        </div>
 	        <div class="col-md-3">
 	                <h2>FOCUS AREAS</h2>
-	                <p><a href="our-research/">Cholera</a></p>
-	                <p><a href="discovery/">Enteric Fever</a></p>
-	                <p><a href="development/">Dengue</a></p>
-	                <p><a href="delivery/">MERS</a></p>
-	                <p><a href="capacity-building/">Other Research Areas</a></p>
+	                <p><a href="cholera/">Cholera</a></p>
+	                <p><a href="enteric-fever/">Enteric Fever</a></p>
+	                <p><a href="dengue/">Dengue</a></p>
+	                <p><a href="mers/">MERS</a></p>
+	                <p><a href="other/">Other Research Areas</a></p>
 	        </div>
 	        <div class="col-md-3">
 	                <h2>VACCINE RESOURCES</h2>
 	                <p><a href="why-vaccines/">Why Vaccines?</a></p>
 	                <p><a href="vaccinology-course/">IVI’s International Advanced Vaccinology Course</a></p>
-	                <p><a>Institutional Review Board</a></p>
+	                <p><a href="institutional-review-board/">Institutional Review Board</a></p>
 	                <p><a href="links/">Links</a></p>
 	        </div>
 	        <div class="col-md-3">
