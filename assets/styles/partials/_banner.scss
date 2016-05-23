@@ -19,6 +19,7 @@
 	line-height: calc(1.75em + 25%);
 	color: $color-grey;
 	overflow: hidden;
+	pointer-events: none;
 	@include overlay($color-light, 0.8);
 	@media (min-width: $mq-small) {
 		font-size: 36px;
@@ -142,6 +143,7 @@
                 margin: 1em auto;
                 width: 100px;
                 height: 100px;
+		pointer-events: auto;
                 transition: ease-out 0.5s;
 		p {
 			display: table-cell;
@@ -153,10 +155,6 @@
 			line-height: 44px;
                 	text-align: center;
                 	color: $color-dark;
-			.clickable {
-				position: absolute;
-				z-index: 10;
-			}
 		}
 	}
 	.yellow-button:after {
