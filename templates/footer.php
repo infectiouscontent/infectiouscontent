@@ -54,6 +54,12 @@
 	var developReveal = { origin : 'bottom', duration : 2000, easing : 'ease-out' };
 	var deliverReveal = { origin : 'left', duration : 3000, easing : 'ease-out' };
 	var sustainReveal = { origin : 'top', duration : 4000, easing : 'ease-out' };
+	var rightReveal = { origin : 'right', duration : 2000, easing : 'ease-out' };
+	var bottomReveal = { origin : 'bottom', duration : 2000, easing : 'ease-out' };
+	var leftReveal = { origin : 'left', duration : 2000, easing : 'ease-out' };
+	var topReveal = { origin : 'top', duration : 2000, easing : 'ease-out' };
+	var upReveal = {  direction: 'up', power: '5%', duration : 2000, easing : 'ease-out' };
+	var downReveal = {  direction: 'down', power: '5%', duration : 2000, easing : 'ease-out' };
 
       	sr.reveal('.logoReveal', logoReveal);
       	sr.reveal('.titleReveal', titleReveal);
@@ -62,6 +68,12 @@
       	sr.reveal('.developReveal', developReveal);
       	sr.reveal('.deliverReveal', deliverReveal);
       	sr.reveal('.sustainReveal', sustainReveal);
+      	sr.reveal('.rightReveal', rightReveal);
+      	sr.reveal('.bottomReveal', bottomReveal);
+      	sr.reveal('.leftReveal', leftReveal);
+      	sr.reveal('.topReveal', topReveal);
+      	sr.reveal('.upReveal', upReveal);
+      	sr.reveal('.downReveal', downReveal);
 </script>
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
