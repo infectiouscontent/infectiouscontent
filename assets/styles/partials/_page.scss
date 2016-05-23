@@ -23,5 +23,9 @@
 .content {
 	width: 80%;
 	margin: 1em auto;
+	img {
+		width: 100%;
+		border: 1px solid $color-grey;
+	}
 }
 
