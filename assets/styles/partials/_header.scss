@@ -24,7 +24,9 @@
 	.brand {
 		font-family: Lato;
 		font-weight: 100;
-		font-size: 0.475em;
+		font-size: 0.75em;
+		text-shadow: 1px 1px 1px rgba(255, 255, 255, .1);
+		text-transform: uppercase;
 		
 		h1 {
 			font-weight: 900;
