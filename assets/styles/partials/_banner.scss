@@ -112,23 +112,23 @@
 			background-attachment: fixed;
 			opacity: 0;
 			@include animation(fade-out 27s infinite both);
-			background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/flowers-800x1200px.png);
+			background-image: $flowers-p;
 			@media (min-width: $mq-med) {
-				background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/flowers-1480x900px.jpg);
+				background-image: $flowers-l;
 			}
 		}
 	 	li:nth-child(2) {
-			background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ball-800x1200px.png);
+			background-image: $ball-p;
 			@include animation-delay(18s);
 			@media (min-width: $mq-med) {
-				background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ball-1480x900px.jpg);
+				background-image: $ball-l;
 			}
 		}
 		li:nth-child(3) {
-			background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/water-800x1200px.png);
+			background-image: $water-p;
 			@include animation-delay(9s);
 			@media (min-width: $mq-med) {
-				background-image: url(https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/water-1480x900px.jpg);
+				background-image: $water-l;
 			}
 		}
 	}
