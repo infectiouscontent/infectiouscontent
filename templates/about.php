@@ -10,28 +10,36 @@
 			<div class="col-sm-3">
 				<div class="logoContainer">
 					<div class="discoverReveal"> 
-						<div class="program"><div class="discover"><p>Discover</p></div></div>
+						<a href="http://international-vaccineinstitute.rhcloud.com/what-we-do-2/discovery/">
+							<div class="program"><div class="discover"><p>Discover</p></div></div>
+						</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-3">
 				<div class="logoContainer">
 					<div class="developReveal"> 
-						<div class="program"><div class="develop"><p>Develop</p></div></div>
+						<a href="http://international-vaccineinstitute.rhcloud.com/development/">
+							<div class="program"><div class="develop"><p>Develop</p></div></div>
+						</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-3">
 				<div class="logoContainer">
 					<div class="deliverReveal"> 
-						<div class="program"><div class="deliver"><p>Deliver</p></div></div>
+						<a href="http://international-vaccineinstitute.rhcloud.com/delivery/">
+							<div class="program"><div class="deliver"><p>Deliver</p></div></div>
+						</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-3">
 				<div class="logoContainer">
 					<div class="sustainReveal"> 
-						<div class="program"><div class="sustain"><p>Sustain</p></div></div>
+						<a href="http://international-vaccineinstitute.rhcloud.com/capacity-building/">
+							<div class="program"><div class="sustain"><p>Sustain</p></div></div>
+						</a>
 					</div>
 				</div>
 			</div>
