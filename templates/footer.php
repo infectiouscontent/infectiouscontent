@@ -18,6 +18,10 @@
 	        </div>
 	        <div class="col-md-3">
 	                <h2>FOCUS AREAS</h2>
+	                <p><a href="#">Discover</a></p>
+	                <p><a href="#">Develop</a></p>
+	                <p><a href="#">Deliver</a></p>
+	                <p><a href="#">Sustain</a></p>
 	                <p><a href="cholera/">Cholera</a></p>
 	                <p><a href="enteric-fever/">Enteric Fever</a></p>
 	                <p><a href="dengue/">Dengue</a></p>
