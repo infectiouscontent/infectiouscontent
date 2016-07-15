@@ -23,7 +23,6 @@
 	        </div>
 	        <div class="col-md-3">
 	                <h2>VACCINE RESOURCES</h2>
-	                <p><a href="why-vaccines/">Why Vaccines?</a></p>
 	                <p><a href="vaccinology-course/">Advanced Vaccinology Course</a></p>
 	                <p><a href="institutional-review-board/">Institutional Review Board</a></p>
 	                <p><a href="links/">Links</a></p>
