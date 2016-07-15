@@ -10,7 +10,7 @@
 			<div class="row">
 				<div class="title">
 					<h1>Donate</h1>
-					<p>Help IVI continue its mandate. Become a sponsor and join our global campaign to improve health.</p>
+					<p>Help IVI make vaccines available for global health.</p>
 				</div>
 				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -20,7 +20,6 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 				</form>
 				<h1>PayPal</h1>
-				<p>Please send your contribution via PayPal</p>
 				</div>
 			</div>
 			<div class="row">
