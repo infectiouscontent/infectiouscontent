@@ -12,7 +12,7 @@
 					<p> We develop & deliver <span style="font-weight: 900;">vaccines</span> for <span style="font-weight: 900;">global health</span>. </p>
 				</div>
         	        	<div class="push">
-					<a href="#contact"> <div class="yellow-button"> <p> support us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
+					<a href="#contact"> <div class="yellow-button"> <p> support <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
 				</div>
 			</div>
 		</div>
@@ -24,7 +24,7 @@
 					<p> We <span style="font-weight: 900;">partner</span> globally to fight <span style="font-weight: 900;">infectious disease</span>. </p>
 				</div>
                 		<div class="right">
-					<a href="#"> <div class="yellow-button"> <p> help us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
+					<a href="#"> <div class="yellow-button"> <p> help <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
 				</div>
 			</div>
 		</div>
@@ -36,7 +36,7 @@
 					<p> We are an <span style="font-weight: 900;">international organization</span> based in <span style="font-weight: 900;">Seoul, South Korea</span>. </p>
 				</div>
                 		<div class="up">
-					<a href="/our-approach"> <div class="yellow-button"> <p> find us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
+					<a href="/our-approach"> <div class="yellow-button"> <p> find <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
 				</div>
 			</div>
 		</div>
