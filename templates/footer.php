@@ -12,6 +12,9 @@
 	                <p><a href="history/">History</a></p>
 	                <p><a href="our-approach/">Our Approach</a></p>
 	                <p><a href="board-of-trustees/">Leadership</a></p>
+	                <p><a href="#">How We Work</a></p>
+	                <p><a href="#">Where We Work</a></p>
+	                <p><a href="#">Our Partners</a></p>
 	        </div>
 	        <div class="col-md-3">
 	                <h2>FOCUS AREAS</h2>
@@ -23,7 +26,7 @@
 	        </div>
 	        <div class="col-md-3">
 	                <h2>VACCINE RESOURCES</h2>
-	                <p><a href="vaccinology-course/">Advanced Vaccinology Course</a></p>
+	                <p><a href="vaccinology-course/">Vaccinology Course</a></p>
 	                <p><a href="institutional-review-board/">Institutional Review Board</a></p>
 	                <p><a href="links/">Links</a></p>
 	        </div>
