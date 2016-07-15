@@ -34,13 +34,18 @@
 	                <p><a href="vaccinology-course/">Vaccinology Course</a></p>
 	                <p><a href="institutional-review-board/">Institutional Review Board</a></p>
 	                <p><a href="links/">Links</a></p>
-	        </div>
-	        <div class="col-md-3">
                 	<h2>OUR IMPACT</h2>
 	                <p><a href="non-scientific-publications/">Journal Publications</a></p>
 	                <p><a href="annual-report-newsletters-2/">Annual Report &amp; Newsletters</a></p>
 	                <p><a href="journal-publications/">IVI Publications</a></p>
 	                <p><a href="multimedia/">Multimedia</a></p>
+        	</div>
+	        </div>
+	        <div class="col-md-3">
+                	<h2>SUPPORT US</h2>
+	                <p><a href="support-ivi/">Support IVI</a></p>
+	                <p><a href="#">Our Donors</a></p>
+	                <p><a href="#">Korea Support Committee</a></p>
         	</div>
 	</div>
 </section>

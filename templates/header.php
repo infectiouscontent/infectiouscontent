@@ -1,6 +1,6 @@
 <header class="header">
   <div class="container">
-	<div class="row"> <img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-whitelogo-2400x600px.png"> </div>
+	<div class="row"> <a href="/"><img src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-whitelogo-2400x600px.png"></a> </div>
 	<div class="row brand"> <?php bloginfo('description'); ?> </div>
     <nav class="nav-primary">
       <?php
