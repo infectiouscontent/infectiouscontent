@@ -9,7 +9,7 @@
 		<div class="centering">
 			<div class="statement">
                 		<div class="push">
-					<p> We develop <span style="font-weight: 900;">vaccines</span> for <span style="font-weight: 900;">global health</span>. </p>
+					<p> We develop & deliver <span style="font-weight: 900;">vaccines</span> for <span style="font-weight: 900;">global health</span>. </p>
 				</div>
         	        	<div class="push">
 					<a href="#"> <div class="yellow-button"> <p> join us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
