@@ -12,7 +12,7 @@
 					<p> We develop & deliver <span style="font-weight: 900;">vaccines</span> for <span style="font-weight: 900;">global health</span>. </p>
 				</div>
         	        	<div class="push">
-					<a href="#"> <div class="yellow-button"> <p> join us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
+					<a href="#contact"> <div class="yellow-button"> <p> join us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
 				</div>
 			</div>
 		</div>
@@ -36,7 +36,7 @@
 					<p> We are an <span style="font-weight: 900;">international organization</span> based in <span style="font-weight: 900;">Seoul, South Korea</span>. </p>
 				</div>
                 		<div class="up">
-					<a href="#"> <div class="yellow-button"> <p> find us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
+					<a href="/our-approach"> <div class="yellow-button"> <p> find us <i class="glyphicon glyphicon-chevron-right" style="font-size:15px;"></i> </p> </div> </a>
 				</div>
 			</div>
 		</div>
