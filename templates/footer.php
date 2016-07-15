@@ -39,7 +39,6 @@
 	                <p><a href="annual-report-newsletters-2/">Annual Report &amp; Newsletters</a></p>
 	                <p><a href="journal-publications/">IVI Publications</a></p>
 	                <p><a href="multimedia/">Multimedia</a></p>
-        	</div>
 	        </div>
 	        <div class="col-md-3">
                 	<h2>SUPPORT US</h2>
