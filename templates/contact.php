@@ -6,7 +6,7 @@
 				</div>
 				<a href="#ribbon"><img class="scroll-down" src="https://s3.ap-northeast-2.amazonaws.com/international-vaccine-institute/ivi-icon-1450x1450px.png" /></a>
 				<p>International Vaccine Institute</p>
-				<p class="address">SNU Research Park, 1 Gwanak-ro, Gwanak-gu, Seoul, 151-742 Korea TEL:02-872-2801, FAX:02-872-2803 </p>
+				<p class="address">SNU Research Park, 1 Gwanak-ro, Gwanak-gu, Seoul, 151-742 Korea TEL: +82-2-872-2801, FAX: +82-2-872-2803 </p>
 			</div>
 		</div>
 </section>
