@@ -22,6 +22,7 @@
 	                <p><a href="#">Develop</a></p>
 	                <p><a href="#">Deliver</a></p>
 	                <p><a href="#">Sustain</a></p>
+			<hr>
 	                <p><a href="cholera/">Cholera</a></p>
 	                <p><a href="enteric-fever/">Enteric Fever</a></p>
 	                <p><a href="dengue/">Dengue</a></p>
