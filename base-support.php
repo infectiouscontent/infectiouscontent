@@ -24,7 +24,7 @@ use Roots\Sage\Wrapper;
     ?>
     <?php
       do_action('get_header');
-      get_template_part('templates/leadership-submenu');
+      get_template_part('templates/support-submenu');
     ?>
     <div class="container-fluid" role="document">
       <div class="content row">
