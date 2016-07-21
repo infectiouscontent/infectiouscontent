@@ -11,9 +11,9 @@
 	                <p><a href="ivi-in-brief/">IVI In Brief</a></p>
 	                <p><a href="history/">History</a></p>
 	                <p><a href="our-approach/">Our Approach</a></p>
-	                <p><a href="#">How We Work</a></p>
-	                <p><a href="#">Where We Work</a></p>
-	                <p><a href="#">Our Partners</a></p>
+	                <p><a href="how-we-work">How We Work</a></p>
+	                <p><a href="where-we-work">Where We Work</a></p>
+	                <p><a href="our-partners">Our Partners</a></p>
 	                <h2>LEADERSHIP</h2>
 	                <p><a href="executive-leadership-team/">Executive Leadership</a></p>
 	                <p><a href="board-of-trustees/">Board of Trustees</a></p>
@@ -46,8 +46,8 @@
 	        <div class="col-md-3">
                 	<h2>SUPPORT US</h2>
 	                <p><a href="support-ivi/">Support IVI</a></p>
-	                <p><a href="#">Our Donors</a></p>
-	                <p><a href="#">Korea Support Committee</a></p>
+	                <p><a href="our-donors">Our Donors</a></p>
+	                <p><a href="korea-support-committee-for-the-ivi-ksc">Korea Support Committee</a></p>
         	</div>
 	</div>
 </section>
