@@ -11,10 +11,13 @@
 	                <p><a href="ivi-in-brief/">IVI In Brief</a></p>
 	                <p><a href="history/">History</a></p>
 	                <p><a href="our-approach/">Our Approach</a></p>
-	                <p><a href="board-of-trustees/">Leadership</a></p>
 	                <p><a href="#">How We Work</a></p>
 	                <p><a href="#">Where We Work</a></p>
 	                <p><a href="#">Our Partners</a></p>
+	                <h2>LEADERSHIP</h2>
+	                <p><a href="executive-leadership-team/">Executive Leadership</a></p>
+	                <p><a href="board-of-trustees/">Board of Trustees</a></p>
+	                <p><a href="scientific-advisory-group/">Scientific Advisory Group</a></p>
 	        </div>
 	        <div class="col-md-3">
 	                <h2>FOCUS AREAS</h2>
